@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Byungjin Cho"
 title_separator          : "-"
 name                     : &name "Byungjin Cho"
-description              : &description "personal description"
+description              : &description "Research scientist"
 url                      : https://byungjincho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "byungjincho/byungjincho.github.io"
+repository               : "byungjincho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
