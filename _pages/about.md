@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Byungjin Cho's home on the web!
+This is Byungjin Cho's home on the web!
 
 Lorem ipsum.
