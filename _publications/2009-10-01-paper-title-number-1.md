@@ -4,10 +4,10 @@ Byungjin Cho(Aalto U.), Yu Xiao(Aalto U.), Pan Hui(Hong Kong U. Sci. Tech. and H
 Paper Title Number 1"
 
 2022
-
-A repeated unknown game: Decentralized task offloading in vehicular fog computing
+---
+"A repeated unknown game: Decentralized task offloading in vehicular fog computing
 B Cho, Y Xiao
-arXiv preprint arXiv:2209.01353
+arXiv preprint arXiv:2209.01353"
 
 Quantum bandit with amplitude amplification exploration in an adversarial environment
 B Cho, Y Xiao, P Hui, D Dong
