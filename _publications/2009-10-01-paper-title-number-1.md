@@ -5,7 +5,7 @@ Paper Title Number 1"
 
 2022
 ---
-"A repeated unknown game: Decentralized task offloading in vehicular fog computing
+title: "A repeated unknown game: Decentralized task offloading in vehicular fog computing
 B Cho, Y Xiao
 arXiv preprint arXiv:2209.01353"
 
