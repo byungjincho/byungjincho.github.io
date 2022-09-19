@@ -72,10 +72,20 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Internet Protocols (Beam Management in 5G Radio protocol), 2020
+* Basic principles in Networking (HTTP and DNS), 2020 
+* Radio resource and spectrum management (Tutorials and exercises), 2014-2016
+* Network access (Tutorials and exercises) 2012-2013
   
-Service and leadership
+  
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Journal on Selected Areas in Communications 
+* IEEE Transactions on Wireless Communications 
+* IEEE Transactions on Vehicular Technology 
+* IEEE Wireless Communications Letters 
+* IEEE Wireless Communications Magazine 
+* IEEE Communications Letters 
+* IEEE Transactions on Industrial Informatics 
+* IEEE Transactions on Cognitive Communications and Networking 
+* International Conference on Distributed Computing Systems 2021 (External) 
