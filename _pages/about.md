@@ -13,30 +13,16 @@ This is Byungjin Cho's home on the web!
 Education
 ======
 * Ph.D in Communications Engineering, Aalto University, 2016
-* M.S. in Communications Engineering, Aalto University, 2011
-#* B.S. in Informations and Communications GitHub, GitHub University, 2012
+* M.S. in Communications Engineering, Aalto University, 2011 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2022: Aalto University, Postdoctoral researcher
+* 2017-2019: Magister Solutions, Senior researcher
+* 2011-2016: Aalto University, Researcher
+* 2010: Samsung UK Electronics, Researcher
+* 2006: SK Hynix, Researcher
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
