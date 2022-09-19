@@ -25,13 +25,10 @@ Work experience
   
 Publications
 ======
-<sub>[J.] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,”  preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
-
-[J.] B. Cho and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” preprint https://arxiv.org/pdf/2209.01353.pdf, 2022 (under 1st revision).
-
-[J.] O. U. Akgul, W. Mao, B. Cho, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” preprint https://doi.org/10.36227/techrxiv.17829398.v2, 2022.
-
-[TVT] W. Mao, O. U. Akgul, B. Cho, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” preprint https://doi.org/10.36227/techrxiv.19794472.v1, 2022.
+*[J.] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,”  preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
+*[J.] B. Cho and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” preprint https://arxiv.org/pdf/2209.01353.pdf, 2022 (under 1st revision).
+*[J.] O. U. Akgul, W. Mao, B. Cho, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” preprint https://doi.org/10.36227/techrxiv.17829398.v2, 2022.
+*[TVT] W. Mao, O. U. Akgul, B. Cho, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” preprint https://doi.org/10.36227/techrxiv.19794472.v1, 2022.
 
 [EDGE] K. R. Rajput, C. D. Kulkarni, B. Cho, W. Wang, and I. Kim, “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,” to appear in Proc. IEEE International Conference on Edge Computing (EDGE), https://wwang.github.io/papers/EdgeFaaSBench.pdf, Jul. 2022. 
 
@@ -60,15 +57,18 @@ Publications
 [Theses] B. Cho, “Interference control and radio spectrum allocation in shared spectrum access,” D.Sc thesis,Aalto university, 2016, https://aaltodoc.aalto.ﬁ/handle/123456789/21259
 
 [Theses] B. Cho, “A simulation study on interference in CSMA/CA ad-hoc networks using point process,” M.Sc thesis, Aalto university, 2011, http://lib.tkk.ﬁ/Dipl/2010/urn100408.pdf
-
-</sub>
+ 
 
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Conference - 2022 IEEE EDGE, Spain “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing”  
+* Invited talk - 2021 Trustworthy Edge Computing Workshop at ACM/IEEE SEC, USA, “Decentralized Task Oﬄoading Decision Making in an Adversarial Environment”  
+* Invited talk - 2016 Radio Systems Laboratory at KTH, Sweden, “Spectrum allocation for multi-operator Device-to-Device communication”  
+* Conference - 2014 IEEE VTC, Korea “Interference modelling using hierarchical spatial clustering of terrain and user density maps”  
+* Conference - 2014 IEEE CROWNCOM, Finland “Spectrum allocation and mode selection for overlay D2D using carrier sensing threshold”  
+* Conference - 2013 IEEE CROWNCOM, USA “Interference control in cognitive wireless networks by tuning the carrier sensing threshold”  
+* Conference - 2013 IFAC, Korea “Modeling the interference generated from car base stations towards indoor femto-cells”  
   
 Teaching
 ======
