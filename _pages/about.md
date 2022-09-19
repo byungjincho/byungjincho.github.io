@@ -10,23 +10,22 @@ redirect_from:
 
 This is Byungjin Cho's home on the web!
 
-Lorem ipsum.
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
+%Lorem ipsum.
+%---
+%layout: archive
+%title: "CV"
+%permalink: /cv/
+%author_profile: true
+%redirect_from:
+%  - /resume
+%---
+%{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Communications Engineering, Aalto University, 2016
+* M.S. in Communications Engineering, Aalto University, 2011
+%* B.S. in Informations and Communications GitHub, GitHub University, 2012
 
 Work experience
 ======
