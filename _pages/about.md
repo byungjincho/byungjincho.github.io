@@ -25,7 +25,7 @@ Work experience
   
 Publications
 ======
-[J.] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,”  preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
+<sub>[J.] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,”  preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
 
 [J.] B. Cho and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” preprint https://arxiv.org/pdf/2209.01353.pdf, 2022 (under 1st revision).
 
@@ -61,7 +61,7 @@ Publications
 
 [Theses] B. Cho, “A simulation study on interference in CSMA/CA ad-hoc networks using point process,” M.Sc thesis, Aalto university, 2011, http://lib.tkk.ﬁ/Dipl/2010/urn100408.pdf
 
-
+</sub>
 
   
 Talks
