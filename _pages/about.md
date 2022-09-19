@@ -9,23 +9,12 @@ redirect_from:
 ---
 
 This is Byungjin Cho's home on the web!
-
-%Lorem ipsum.
-%---
-%layout: archive
-%title: "CV"
-%permalink: /cv/
-%author_profile: true
-%redirect_from:
-%  - /resume
-%---
-%{% include base_path %}
-
+ 
 Education
 ======
 * Ph.D in Communications Engineering, Aalto University, 2016
 * M.S. in Communications Engineering, Aalto University, 2011
-%* B.S. in Informations and Communications GitHub, GitHub University, 2012
+#* B.S. in Informations and Communications GitHub, GitHub University, 2012
 
 Work experience
 ======
