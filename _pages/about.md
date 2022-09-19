@@ -25,23 +25,25 @@ Work experience
   
 Publications
 ======
-Peer-reviewed journal/conference articles (under review)
 
-[J10] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” submitted to IEEE Transactions on Knowledge and Data Engineering, preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
 
-[J9] B. Cho and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” submitted to IEEE Transactions on Vehicular Technology (TVT), preprint https://arxiv.org/pdf/2209.01353.pdf, 2022 (under 1st revision).
+[J10] B. Cho, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,”  preprint https://arxiv.org/pdf/2208.07144.pdf, 2022.
 
-[J8] O. U. Akgul, W. Mao, B. Cho, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” submitted to IEEE Systems Journal (SJ), preprint https://doi.org/10.36227/techrxiv.17829398.v2, 2022.
+[J9] B. Cho and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” preprint https://arxiv.org/pdf/2209.01353.pdf, 2022 (under 1st revision).
 
-[J7] W. Mao, O. U. Akgul, B. Cho, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” submitted to IEEE Transactions on Vehicular Technology (TVT), preprint https://doi.org/10.36227/techrxiv.19794472.v1, 2022 (under 1st revision).
+[J8] O. U. Akgul, W. Mao, B. Cho, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” preprint https://doi.org/10.36227/techrxiv.17829398.v2, 2022.
 
-Peer-reviewed journal/conference articles (Accepted)
+[J7] W. Mao, O. U. Akgul, B. Cho, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” preprint https://doi.org/10.36227/techrxiv.19794472.v1, 2022 (under 1st revision).
 
-[J6] W. Mao, O. U. Akgul, A. Mehrabi, B. Cho, Y. Xiao, and A. Ylä-Jääski, “Data-Driven Capacity Planning for Vehicular Fog Computing,” in IEEE Internet of Things Journal (JIOT), vo. 70, no. 11, pp. 11308-11323, Jan. 2022, https://ieeexplore.ieee.org/document/9684543.
+[IEEE EDGE] K. R. Rajput, C. D. Kulkarni, B. Cho, W. Wang, and I. Kim, “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,” to appear in Proc. IEEE International Conference on Edge Computing (EDGE), https://wwang.github.io/papers/EdgeFaaSBench.pdf, Jul. 2022. 
 
-[J5] B. Cho and Y. Xiao, “Learning-based decentralized offloading decision making in an adversarial environment,” in IEEE Transactions on Vehicular Technology (TVT), vo. 70, no. 11, pp. 11308-11323, Sept. 2021, https://ieeexplore.ieee.org/document/9551805.
+[IEEE JIOT] W. Mao, O. U. Akgul, A. Mehrabi, B. Cho, Y. Xiao, and A. Ylä-Jääski, “Data-Driven Capacity Planning for Vehicular Fog Computing,” in IEEE Internet of Things Journal (JIOT), vo. 70, no. 11, pp. 11308-11323, Jan. 2022, https://ieeexplore.ieee.org/document/9684543.
 
-[J4] B. Cho, K. Koufos, R. Jäntti, and S.-L, Kim, “Co-primary spectrum sharing for inter-operator Device-to-Device communication,” in IEEE Journal on Selected Areas in Communications (JSAC), vol. 35, no. 1, pp. 91-105, Jan. 2017, https://ieeexplore.ieee.org/document/7756392.
+[IEEE CCNC] X. Li, B. Cho, and Y. Xiao, “Balancing Latency and Accuracy on Deep Video Analytics at the Edge,” in Proc. IEEE Consumer Communications & Networking Conference (CCNC), pp. 299-306, Jan. 2022.
+
+[IEEE TVT] B. Cho and Y. Xiao, “Learning-based decentralized offloading decision making in an adversarial environment,” in IEEE Transactions on Vehicular Technology (TVT), vo. 70, no. 11, pp. 11308-11323, Sept. 2021, https://ieeexplore.ieee.org/document/9551805.
+
+[IEEE JSAC] B. Cho, K. Koufos, R. Jäntti, and S.-L, Kim, “Co-primary spectrum sharing for inter-operator Device-to-Device communication,” in IEEE Journal on Selected Areas in Communications (JSAC), vol. 35, no. 1, pp. 91-105, Jan. 2017, https://ieeexplore.ieee.org/document/7756392.
 
 [J3] B. Cho, K. Koufos, and R. Jäntti, “Performance of secondary wireless networks with contention control in TV white spaces,” Journal of Mobile Networks and Applications, vol. 19, no. 4, pp. 467-472, Jun. 2014.
 
@@ -49,9 +51,6 @@ Peer-reviewed journal/conference articles (Accepted)
 
 [J1] B. Cho, K. Koufos, K. Ruttik, and R. Jäntti, “Power allocation in the TV white space under a constraint on secondary system self-interference,” Journal of Electrical and Computer Engineering, vol. 2012, Jun. 2012.
 
-[C6] K. R. Rajput, C. D. Kulkarni, B. Cho, W. Wang, and I. Kim, “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,” to appear in Proc. IEEE International Conference on Edge Computing (EDGE), https://wwang.github.io/papers/EdgeFaaSBench.pdf, Jul. 2022. 
-
-[C5] X. Li, B. Cho, and Y. Xiao, “Balancing Latency and Accuracy on Deep Video Analytics at the Edge,” in Proc. IEEE Consumer Communications & Networking Conference (CCNC), pp. 299-306, Jan. 2022.
 
 [C4] B. Cho, K. Koufos, R. Jäntti, Z. Li, and M. A. Uusitalo, “Spectrum allocation for multi-operator Device-to-Device communication,” in Proc. IEEE International Conference on Communications (ICC), pp. 5454 - 5459, Jun. 2015.
 
