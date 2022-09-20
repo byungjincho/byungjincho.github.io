@@ -17,7 +17,7 @@ Education
 
 Research interest
 ======
-* Quantum computation
+* Quantum computation, Quantum amplitude amplification
 * Decision-making, Reinforcement learning, Game theory, Optimization
 * Computing Resource management, task offloading
 * Radio resource management, interference modeling and control
