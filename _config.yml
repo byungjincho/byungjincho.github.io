@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "This is Byungjin Cho's home"
+title                    : "Welcome to Cho's personal homepage"
 title_separator          : "-"
 name                     : &name "Byungjin Cho"
 description              : &description "Research scientist"
