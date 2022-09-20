@@ -14,13 +14,13 @@ Education
 * Ph.D in Communications Engineering, Aalto University, 2016
 * M.S. in Communications Engineering, Aalto University, 2011 
 
-Work experience
+Research interest
 ======
-* 2019-2022: Aalto University, Postdoctoral researcher
-* 2017-2019: Magister Solutions, Senior researcher
-* 2011-2016: Aalto University, Researcher
-* 2010: Samsung UK Electronics, Researcher
-* 2006: SK Hynix, Researcher
+* Radio and Computing Resource management
+* Online learning
+* Game theory
+* Optimization
+* Quantum computation
   
 Publications
 ======
@@ -43,6 +43,14 @@ Publications
 * [Theses] B. Cho, “Interference control and radio spectrum allocation in shared spectrum access,” D.Sc thesis,Aalto university, 2016, https://aaltodoc.aalto.ﬁ/handle/123456789/21259
 * [Theses] B. Cho, “A simulation study on interference in CSMA/CA ad-hoc networks using point process,” M.Sc thesis, Aalto university, 2011, http://lib.tkk.ﬁ/Dipl/2010/urn100408.pdf
   
+Work experience
+======
+* 2019-2022: Aalto University, Postdoctoral researcher
+* 2017-2019: Magister Solutions, Senior researcher
+* 2011-2016: Aalto University, Researcher
+* 2010: Samsung UK Electronics, Researcher
+* 2006: SK Hynix, Researcher
+
 Talks
 ======
 * Conference - 2022 IEEE EDGE, Spain “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing”  
