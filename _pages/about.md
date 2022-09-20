@@ -11,14 +11,17 @@ Short intro
 
 Education
 ======
-* Ph.D in Communications Engineering, Aalto University, 2016
-* M.S. in Communications Engineering, Aalto University, 2011 
+* Ph.D in Communications Engineering, Aalto University, Finland, 2016
+* M.S. in Communications Engineering, Aalto University, Finland, 2011 
+* B.E. in Information and Communication Engineering, Catholic University of Korea, South Korea, 2007
 
 Research interest
 ======
-* Radio and Computing Resource management
-* Online learning, Game theory, Optimization
 * Quantum computation
+* Decision-making, Reinforcement learning, Game theory, Optimization
+* Computing Resource management, task offloading
+* Radio resource management, interference modeling and control
+
   
 Publications
 ======
