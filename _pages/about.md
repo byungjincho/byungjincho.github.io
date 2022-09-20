@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
+Short intro
 
 Education
 ======
