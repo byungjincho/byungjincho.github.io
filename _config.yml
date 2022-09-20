@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Byungjin Cho"
+title                    : "This is Byungjin Cho's home"
 title_separator          : "-"
 name                     : &name "Byungjin Cho"
 description              : &description "Research scientist"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Byungjin Cho"
+  name             : "Byungjin Cho"
   avatar           : "cho.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher"
   location         : # "Location"
-  employer         :
+  employer         : "Aalto University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Yuz4XPoAAAAJ&hl=en&oi=ao"
   email            :
