@@ -86,7 +86,7 @@ author:
   location         : # "Location"
   employer         : "Aalto University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Yuz4XPoAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Yuz4XPoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : Byungjin.Cho@aalto.fi
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
