@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 
-
+Education
 ======
 * Ph.D in Communications Engineering, Aalto University, 2016
 * M.S. in Communications Engineering, Aalto University, 2011 
