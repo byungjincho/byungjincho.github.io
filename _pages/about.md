@@ -38,8 +38,8 @@ Publications
 * [IFAC] **B. Cho**, K. Koufos, K. Ruttik, and R. Jäntti, “Modeling the interference generated from car base stations towards indoor femto-cells,” in Proc. International Federation of Automatic control (IFAC) Symposium on Telematics Applications, pp. 96 - 101, Nov. 2013
 * [MNA] **B. Cho**, K. Koufos, and R. Jäntti, “Performance of secondary wireless networks with contention control in TV white spaces,” Journal of Mobile Networks and Applications, vol. 19, no. 4, pp. 467-472, Jun. 2014
 * [ECE] **B. Cho**, K. Koufos, K. Ruttik, and R. Jäntti, “Power allocation in the TV white space under a constraint on secondary system self-interference,” Journal of Electrical and Computer Engineering, vol. 2012, Jun. 2012
-* [Theses] **B. Cho**, “Interference control and radio spectrum allocation in shared spectrum access,” D.Sc thesis,Aalto university, https://aaltodoc.aalto.ﬁ/handle/123456789/21259, 2016
-* [Theses] **B. Cho**, “A simulation study on interference in CSMA/CA ad-hoc networks using point process,” M.Sc thesis, Aalto university, http://lib.tkk.ﬁ/Dipl/2010/urn100408.pdf, 2011
+* [Thesis] **B. Cho**, “Interference control and radio spectrum allocation in shared spectrum access,” D.Sc thesis,Aalto university, https://aaltodoc.aalto.ﬁ/handle/123456789/21259, 2016
+* [Thesis] **B. Cho**, “A simulation study on interference in CSMA/CA ad-hoc networks using point process,” M.Sc thesis, Aalto university, http://lib.tkk.ﬁ/Dipl/2010/urn100408.pdf, 2011
   
 Work experience
 ======
