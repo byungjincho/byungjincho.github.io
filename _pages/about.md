@@ -11,9 +11,9 @@ Summary
 
 Education
 ======
-* Ph.D in Communications Engineering, Aalto University, Finland, 2016
-* M.S. in Communications Engineering, Aalto University, Finland, 2011 
-* B.E. in Information. Communications Engineering, Catholic University of Korea, 2007 (Summa cum laude)
+* Ph.D in Communications Engineering, Aalto University, Finland
+* M.S. in Communications Engineering, Aalto University, Finland
+* B.E. in Information. Communications Engineering, Catholic University of Korea (Summa cum laude)
 
 Research interest
 ======
