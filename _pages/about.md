@@ -19,6 +19,7 @@ Research interest
 ======
 * Quantum computation, Quantum amplitude amplification
 * Decision-making, Reinforcement learning, Game theory, Optimization
+* Physics-informed model, Stochastic geometry
 * Computing resource management, task offloading
 * Spectrum resource management, interference model and control
   
