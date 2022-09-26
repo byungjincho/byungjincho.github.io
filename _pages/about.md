@@ -20,8 +20,8 @@ Research interest
 * Quantum computation, Quantum amplitude amplification
 * Decision-making, Reinforcement learning, Game theory, Optimization
 * Physics-informed model, Stochastic geometry
-* Computing resource management, task offloading
-* Spectrum resource management, interference model and control
+* Computing resource management, Task offloading
+* Spectrum resource management, Interference model and control
   
 Publications
 ======
@@ -46,13 +46,13 @@ Publications
   
 Talks
 ======
-* Conference - 2022 IEEE EDGE, Spain “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing”  
-* Invited talk - 2021 Trustworthy Edge Computing Workshop at ACM/IEEE SEC, USA, “Decentralized Task Oﬄoading Decision Making in an Adversarial Environment”  
-* Invited talk - 2016 Radio Systems Laboratory at KTH, Sweden, “Spectrum allocation for multi-operator Device-to-Device communication”  
-* Conference - 2014 IEEE VTC, Korea “Interference modelling using hierarchical spatial clustering of terrain and user density maps”  
-* Conference - 2014 IEEE CROWNCOM, Finland “Spectrum allocation and mode selection for overlay D2D using carrier sensing threshold”  
-* Conference - 2013 IEEE CROWNCOM, USA “Interference control in cognitive wireless networks by tuning the carrier sensing threshold”  
-* Conference - 2013 IFAC, Korea “Modeling the interference generated from car base stations towards indoor femto-cells”  
+* Conference - “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing”, 2022 IEEE EDGE, Spain   
+* Invited talk - “Decentralized Task Oﬄoading Decision Making in an Adversarial Environment”, 2021 Trustworthy Edge Computing Workshop at ACM/IEEE SEC, USA
+* Invited talk - “Spectrum allocation for multi-operator Device-to-Device communication”, 2016 Radio Systems Laboratory at KTH, Sweden
+* Conference - “Interference modelling using hierarchical spatial clustering of terrain and user density maps”, 2014 IEEE VTC, Korea
+* Conference - “Spectrum allocation and mode selection for overlay D2D using carrier sensing threshold”, 2014 IEEE CROWNCOM, Finland 
+* Conference - “Interference control in cognitive wireless networks by tuning the carrier sensing threshold”, 2013 IEEE CROWNCOM, USA
+* Conference - “Modeling the interference generated from car base stations towards indoor femto-cells”, 2013 IFAC, Korea  
   
 Teaching
 ======
