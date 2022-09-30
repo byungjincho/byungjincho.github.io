@@ -26,7 +26,7 @@ Research interest
 Publications
 ======
 * [J.] **B. Cho**, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” 2022. [preprint](https://arxiv.org/pdf/2208.07144.pdf)
-* [J.] **B. Cho** and Y. Xiao, “A repeated unknown game: Decentralized task ofﬂoading decision making,” 2022. [preprint](https://arxiv.org/pdf/2209.01353.pdf)
+* [J.] **B. Cho** and Y. Xiao, “A repeated unknown game: Decentralized task offloading decision making in vehicular fog computing,” 2022. [preprint](https://arxiv.org/pdf/2209.01353.pdf)
 * [J.] O. U. Akgul, W. Mao, **B. Cho**, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” 2022. [preprint](https://doi.org/10.36227/techrxiv.17829398.v2)
 * [TVT] W. Mao, O. U. Akgul, **B. Cho**, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” 2022. [preprint](https://doi.org/10.36227/techrxiv.19794472.v1)
 * [EDGE] K. R. Rajput, C. D. Kulkarni, **B. Cho**, W. Wang, and I. Kim, “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,” to appear in Proc. IEEE International Conference on Edge Computing (EDGE), Jul. 2022. [link](https://wwang.github.io/papers/EdgeFaaSBench.pdf)
