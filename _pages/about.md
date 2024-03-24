@@ -11,7 +11,7 @@ Summary
 
 Experiences
 ======
-* Industry: Researchers at Nokia Bell Labs(FI), Magister Solutions(FI), Samsung R&D Institute(UK), SK Hynix(KR)
+* Industry: Researchers at Nokia(FI), Magister Solutions(FI), Samsung R&D Inst.(UK), Hynix(KR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering, Aalto University
 
 <Ph.D in Communications Engineering, Aalto University, Finland>
