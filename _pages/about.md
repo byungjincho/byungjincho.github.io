@@ -25,10 +25,10 @@ Research interest
   
 Publications
 ======
-* [J.] **B. Cho**, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” 2022. [preprint](https://arxiv.org/pdf/2208.07144.pdf)
-* [J.] **B. Cho** and Y. Xiao, “A repeated unknown game: Decentralized task offloading decision making in vehicular fog computing,” 2022. [preprint](https://arxiv.org/pdf/2209.01353.pdf)
-* [J.] O. U. Akgul, W. Mao, **B. Cho**, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” 2022. [preprint](https://doi.org/10.36227/techrxiv.17829398.v2)
-* [TVT] W. Mao, O. U. Akgul, **B. Cho**, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” 2022. [preprint](https://doi.org/10.36227/techrxiv.19794472.v1)
+* [TKDE] **B. Cho**, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” in IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 1, pp. 311-317, Jan. 2024. [link](https://ieeexplore.ieee.org/abstract/document/10136755)
+* [TVT] **B. Cho** and Y. Xiao, “A repeated unknown game: Decentralized task offloading decision making in vehicular fog computing,” in IEEE Transactions on Vehicular Technology (TVT), vol. 72, no. 10, pp. 13430-13446, Oct. 2023. [link](https://ieeexplore.ieee.org/document/10122978)  
+* [SJ] O. U. Akgul, W. Mao, **B. Cho**, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” in IEEE Systems Journal (SJ), vol. 17, no. 3, pp. 5002-5013, Sept. 2023. [link](https://ieeexplore.ieee.org/document/10168727)
+* [TVT] W. Mao, O. U. Akgul, **B. Cho**, Y. Xiao, and A. Ylä-Jääski, “On-demand Vehicular Fog Computing for Beyond 5G Networks,” in IEEE Transactions on Vehicular Technology (TVT), vol. 72, no. 12, pp. 15237-15253, Dec. 2023. [link](https://ieeexplore.ieee.org/document/10164177)
 * [EDGE] K. R. Rajput, C. D. Kulkarni, **B. Cho**, W. Wang, and I. Kim, “EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,” to appear in Proc. IEEE International Conference on Edge Computing (EDGE), Jul. 2022. [link](https://wwang.github.io/papers/EdgeFaaSBench.pdf)
 * [JIOT] W. Mao, O. U. Akgul, A. Mehrabi, **B. Cho**, Y. Xiao, and A. Ylä-Jääski, “Data-Driven Capacity Planning for Vehicular Fog Computing,” in IEEE Internet of Things Journal (JIOT), vo. 70, no. 11, pp. 11308-11323, Jan. 2022. [link](https://ieeexplore.ieee.org/document/9684543)
 * [CCNC] X. Li, **B. Cho**, and Y. Xiao, “Balancing Latency and Accuracy on Deep Video Analytics at the Edge,” in Proc. IEEE Consumer Communications & Networking Conference (CCNC), pp. 299-306, Jan. 2022. [link](https://acris.aalto.fi/ws/portalfiles/portal/79542279/_CCNC_2022_Deep_Video_Analytics_Latency_vs_Accuracy_2_.pdf)
