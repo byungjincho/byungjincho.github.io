@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to Cho's personal homepage"
 title_separator          : "-"
 name                     : &name "Byungjin Cho"
-description              : &description "Research scientist"
+description              : &description "Senior Research Scientist"
 url                      : https://byungjincho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "byungjincho.github.io"
