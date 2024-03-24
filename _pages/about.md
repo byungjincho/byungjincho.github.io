@@ -13,11 +13,7 @@ Experiences
 ======
 * Industry: Researchers at Nokia Bell Labs (FI), Samsung R&D Inst.(UK), Hynix(KR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto
-
-<Ph.D in Communications Engineering, Aalto University, Finland>
-<M.S. in Communications Engineering, Aalto University, Finland>
-<B.E. in Info. Communications Engineering, Catholic University of Korea (Summa cum laude)>
-
+ 
 Research Interest
 ======
 * Quantum computation, Quantum amplitude amplification
