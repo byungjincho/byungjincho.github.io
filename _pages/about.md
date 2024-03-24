@@ -11,7 +11,7 @@ Currently serving as a Senior Research Scientist at Nokia.
 
 Experiences
 ======
-* Industry: Researchers at Nokia Bell Labs (FI), Samsung R&D Inst.(UK), SK Hynix(KR)
+* Industry: Researchers at Nokia Bell Labs(FI), Samsung R&D Inst.(UK), SK Hynix(KR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto
  
 Research Interest
