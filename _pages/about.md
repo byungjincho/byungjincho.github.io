@@ -24,6 +24,7 @@ Research Interest
   
 Publications
 ======
+* [MMSys] X. Li, E. Vikberg, **B. Cho**, and Y. Xiao, “Pandia: Open-source Framework for DRL-based Real-time Video Streaming Control,” to appear in Proc. ACM Multimedia Systems Conference (MMSys), 2024. 
 * [TKDE] **B. Cho**, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” in IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 1, pp. 311-317, Jan. 2024. [link](https://ieeexplore.ieee.org/abstract/document/10136755)
 * [TVT] **B. Cho** and Y. Xiao, “A repeated unknown game: Decentralized task offloading decision making in vehicular fog computing,” in IEEE Transactions on Vehicular Technology (TVT), vol. 72, no. 10, pp. 13430-13446, Oct. 2023. [link](https://ieeexplore.ieee.org/document/10122978)  
 * [SJ] O. U. Akgul, W. Mao, **B. Cho**, and Y. Xiao, “A data-driven platform for simulating vehicular fog computing environment,” in IEEE Systems Journal (SJ), vol. 17, no. 3, pp. 5002-5013, Sept. 2023. [link](https://ieeexplore.ieee.org/document/10168727)
