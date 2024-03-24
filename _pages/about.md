@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Summary
+Senior Research Scientist, Nokia
 
 Experiences
 ======
