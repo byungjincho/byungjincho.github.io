@@ -9,13 +9,15 @@ redirect_from:
 ---  
 Summary
 
-Education
+Experiences
 ======
-* Ph.D in Communications Engineering, Aalto University, Finland
-* M.S. in Communications Engineering, Aalto University, Finland
-* B.E. in Info. Communications Engineering, Catholic University of Korea (Summa cum laude)
+* Industry: Nokia S&T(FI), Nokia Bell Labs(FI), Magister Solutions(FI), Samsung R&D Institute(UK), SK Hynix(KR)
+* Academic: Postdoc/Ph.D/MSc in Communications Engineering, Aalto University, Finland
+//Ph.D in Communications Engineering, Aalto University, Finland
+//M.S. in Communications Engineering, Aalto University, Finland
+#B.E. in Info. Communications Engineering, Catholic University of Korea (Summa cum laude)
 
-Research interest
+Research Interest
 ======
 * Quantum computation, Quantum amplitude amplification
 * Decision-making, Reinforcement learning, Game theory, Optimization
