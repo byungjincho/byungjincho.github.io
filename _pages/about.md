@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Currently serving as a Senior Research Scientist at Nokia, Finland.
+Currently serving as a Senior Research Scientist at Nokia.
 
 Experiences
 ======
