@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Byungjin Cho"
+  name             : ""
   avatar           : "cho.png"
   location         : "Finland"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
