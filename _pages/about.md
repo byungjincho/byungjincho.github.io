@@ -11,7 +11,7 @@ Currently serving as a Senior Research Scientist at Nokia.
 
 Experiences
 ======
-* Industry: Researchers at Nokia Bell-Labs(FI), Samsung R&D Inst.(UK), SK Hynix(KR)
+* Industry: Researchers at Nokia Bell-Labs(FI), SK Hynix(KR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto
  
 Research Interest
@@ -24,6 +24,7 @@ Research Interest
   
 Publications
 ======
+* [TMC] X. Li, **B. Cho**, S. Katta, J. C. Requena, and Y. Xiao, “Aeacus: QUIC-powered Low-latency and Strong-consistency Name Resolution in 5G,” to appear in IEEE Transactions on Mobile Computing (TMC), 2025.
 * [TIV] W. Mao, J. Yin, Y. Liu, **B. Cho**, Y. Chen, W. Rao, and Y. Xiao, “Multi-agent Reinforcement Learning-based Capacity Planning for On-demand Vehicular Fog Computing,” to appear in IEEE Transactions on Intelligent Vehicles (TIV), 2024.
 * [MMSys] X. Li, E. Vikberg, **B. Cho**, and Y. Xiao, “Pandia: Open-source Framework for DRL-based Real-time Video Streaming Control,” in Proc. ACM Multimedia Systems Conference (MMSys), vol. 7, pp. 299–305, Apr. 2024.  [link](https://dl.acm.org/doi/10.1145/3625468.3652173)
 * [TKDE] **B. Cho**, Y. Xiao, P. Hui, and D. Dong, “Quantum bandit with amplitude amplification exploration in an adversarial environment,” in IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, no. 1, pp. 311-317, Jan. 2024. [link](https://ieeexplore.ieee.org/abstract/document/10136755)
