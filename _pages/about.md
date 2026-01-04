@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Currently serving as a Senior Research Scientist at Nokia.
+Currently serving as an Assistant Professor in the Department of Computer Science and Software Engineering at Korea University (Sejong), South Korea.
 
 Experiences
 ======
-* Industry: Researchers at Nokia Bell-Labs(FI), SK Hynix(KR)
+* Industry: Senior Research Scientist at Nokia Standards(FI), Researchers at Nokia Bell-Labs(FI), Engineer at SK Hynix(KR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto
  
 Research Interest
