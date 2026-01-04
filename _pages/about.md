@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Assistant Professor, Department of Computer Science and Software Engineering at Korea University (Sejong).
+Assistant Professor, Asst. Prof., Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
 
 Experiences
 ======
