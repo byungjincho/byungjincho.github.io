@@ -11,7 +11,7 @@ Currently serving as an Assistant Professor in the Department of Computer Scienc
 
 Experiences
 ======
-* Industry: Senior Research Scientist at Nokia Standards(FI), Researchers at Nokia Bell-Labs(FI), Engineer at SK Hynix(KR)
+* Industry: Senior Research Scientist at Nokia Standards (FIN), Researcher at Nokia Bell-Labs (FIN), Engineer at SK Hynix (KOR)
 * Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto
  
 Research Interest
