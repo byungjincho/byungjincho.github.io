@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Asst. Prof., Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
+Asst. Professor, Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
 
 Experiences
 ======
 * Industry: Senior Research Scientist at Nokia (FIN), Engineer at SK Hynix (KOR)
-* Academic: Postdoc/Ph.D/MSc in Communications Engineering at Aalto (FIN)
+* Academic: Postdoc/Ph.D/MSc in Electrical Engineering at Aalto (FIN)
  
 Research Interest
 ======
