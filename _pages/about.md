@@ -58,10 +58,17 @@ Talks
   
 Teaching
 ======
-* Internet Protocols (Beam Management in 5G Radio protocol), 2020
-* Basic principles in Networking (HTTP and DNS), 2020 
-* Radio resource and spectrum management (Tutorials and exercises), 2014-2016
-* Network access (Tutorials and exercises) 2012-2013
+* Introduction to Quantum Computing, 2026 Spring KU Sejong
+* Computer Networks, 2026 Spring KU Sejong
+* ICT Application technology, 2026 Spring KU Sejong
+* Capstone Design I/II, 2026 Spring KU Sejong
+* Algorithms, 2025 Fall KU Sejong
+* Computer Networks, 2025 Fall KU Sejong
+* Capstone Design I/II, 2025 Fall KU Sejong
+* Internet Protocols (Beam Management in 5G Radio protocol), 2020 Aalto
+* Basic principles in Networking (HTTP and DNS), 2020 Aalto
+* Radio resource and spectrum management (Tutorials and exercises), 2014-2016 Aalto
+* Network access (Tutorials and exercises) 2012-2013 Aalto
    
 Service 
 ======
