@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Asst. Professor, Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
 
-Note: I am looking for responsible, capable, and self-motivated M.S./Ph.D. students.
+Note: We are seeking responsible, capable, and self-motivated M.S./Ph.D. students.
 
 Highlighted Experiences
 ======
@@ -19,6 +19,7 @@ Highlighted Experiences
 Research Interest
 ======
 * Quantum computation, Quantum amplitude amplification
+* Quantum illumination-based Sensing
 * Decision-making, Reinforcement learning, Game theory, Optimization
 * Physics-informed model, Stochastic geometry
 * Computing resource management, Task offloading
