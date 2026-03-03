@@ -10,7 +10,7 @@ redirect_from:
 
 We welcome self-motivated and responsible M.S./Ph.D. students.
 
-* **Highlighted Experiences**
+Highlighted Experiences
 ======
 Asst. Prof., Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
 * Industry: Senior Research Scientist at Nokia (FIN), Engineer at SK Hynix (KOR)
