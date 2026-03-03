@@ -75,6 +75,7 @@ Teaching
    
 Service 
 ======
+* Program Committee in IEEE ICFEC (International Conference on Fog and Edge Computing) 2026
 * IEEE Journal on Selected Areas in Communications 
 * IEEE Transactions on Wireless Communications 
 * IEEE Transactions on Vehicular Technology 
