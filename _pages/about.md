@@ -9,7 +9,9 @@ redirect_from:
 ---  
 Asst. Professor, Dept. of Computer Science & Software Engineering, Korea Univ. (Sejong campus)
 
-Experiences
+Note: I am looking for responsible, capable, and self-motivated M.S./Ph.D. students.
+
+Highlighted Experiences
 ======
 * Industry: Senior Research Scientist at Nokia (FIN), Engineer at SK Hynix (KOR)
 * Academic: Postdoc/Ph.D/MSc in Electrical Engineering at Aalto (FIN)
