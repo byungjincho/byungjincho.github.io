@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 
-Note: We are seeking responsible, capable, and self-motivated M.S./Ph.D. students.
+We welcome responsible and self-motivated M.S./Ph.D. students.
 
 Highlighted Experiences
 ======
