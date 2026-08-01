@@ -61,13 +61,17 @@ Talks
   
 Teaching
 ======
-* Introduction to Quantum Computing, 2026 Spring KU Sejong
-* Computer Networks, 2026 Spring KU Sejong
-* ICT Application technology, 2026 Spring KU Sejong
-* Capstone Design I/II, 2026 Spring KU Sejong
-* Algorithms, 2025 Fall KU Sejong
-* Computer Networks, 2025 Fall KU Sejong
-* Capstone Design I/II, 2025 Fall KU Sejong
+* Quantum Algorithms, 2026 Fall KUS
+* Algorithms, 2026 Fall KUS
+* Information and Communications, 2026 Fall KUS
+* Capstone Design I/II, 2026 Fall KUS
+* Introduction to Quantum Computing, 2026 Spring KUS
+* Computer Networks, 2026 Spring KUS
+* ICT Application technology, 2026 Spring KUS
+* Capstone Design I/II, 2026 Spring KUS
+* Algorithms, 2025 Fall KUS
+* Computer Networks, 2025 Fall KUS
+* Capstone Design I/II, 2025 Fall KUS
 * Internet Protocols (Beam Management in 5G Radio protocol), 2020 Aalto
 * Basic principles in Networking (HTTP and DNS), 2020 Aalto
 * Radio resource and spectrum management (Tutorials and exercises), 2014-2016 Aalto
@@ -76,6 +80,7 @@ Teaching
 Service 
 ======
 * Program Committee in IEEE ICFEC (International Conference on Fog and Edge Computing) 2026
+* Program Committee in APNOMS (Asia-Pacific Network Operations and Management Symposium) 2026
 * IEEE Journal on Selected Areas in Communications 
 * IEEE Transactions on Wireless Communications 
 * IEEE Transactions on Vehicular Technology 
