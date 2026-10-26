@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Byungjin Cho's homepage"
+title                    : "NDS Lab"
 title_separator          : "-"
-name                     : &name "Byungjin Cho"
-description              : &description "Senior Research Scientist"
+name                     : &name "Network and Decision Systems Lab"
+description              : &description "Performance limits and trade-offs, network design and resource allocation, and learning and decision systems at Korea University, Sejong Campus."
 url                      : https://byungjincho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "byungjincho.github.io"
+repository               : "byungjincho/byungjincho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,9 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Byungjin Cho"
-  name             : ""
   avatar           : "cho.png"
-  location         : "Korea"
+  location         : "Sejong, South Korea"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Yuz4XPoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : ByungjinCho@korea.ac.kr
@@ -144,6 +143,30 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - docs
+  # AcademicPages demonstration content is retained in git but not published.
+  - _posts
+  - _drafts
+  - _portfolio
+  - _publications
+  - _teaching
+  - _talks
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - vendor
 keep_files:
   - .git
@@ -254,7 +277,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins

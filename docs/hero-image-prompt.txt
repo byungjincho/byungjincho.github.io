@@ -1,0 +1,16 @@
+NDS Lab homepage hero
+Generation mode: built-in image_gen tool
+Generated: 2026-10-26
+Original dimensions: 2172 x 724 pixels (3:1)
+Project assets: assets/images/nds-research-hero.png and assets/images/nds-research-hero.webp
+The WebP derivative is a format/compression conversion of the original illustration.
+
+Final prompt:
+Use case: stylized-concept.
+Asset type: wide homepage hero banner for an academic research laboratory, Network and Decision Systems Lab, Korea University.
+Primary request: Create a sophisticated, restrained academic editorial illustration of classical and quantum information systems linked by networks and decisions. A single coherent panoramic landscape, not a catalogue of icons and not a literal scientific diagram.
+Subject and composition: A very wide landscape composition, approximately 3:1. Across one continuous light landscape, fine abstract wave and interference patterns on the left gently transition into a sparse connected network of small terrestrial computing structures and communication nodes. Include a single subtle aerial drone and a small distant satellite with a delicate orbital arc as part of the same environment, rather than separate icons. Toward the right, elegant branching network paths and alternative routes suggest sequential decisions, coordination, and performance trade-offs. Keep these motifs visually integrated, understated, and spacious. No text overlay will be used; balance the visual weight across the full width.
+Style and medium: Refined contemporary scientific editorial art, delicate pen-and-ink linework with subtle engraved detail, light isometric architectural depth, soft watercolor-like washes, crisp and elegant rather than cartoonish. Visually polished like a leading university research lab homepage.
+Color palette: Warm off-white and very pale blue-gray ground, fine deep navy and muted teal linework, sparing muted crimson accents. Keep the overall image bright and quiet, with generous breathing room and sophisticated tonal restraint.
+Lighting and mood: Soft diffuse daylight, calm, thoughtful, scholarly, precise.
+Constraints: Decorative conceptual illustration only. No words, letters, numbers, equations, labels, logos, seals, watermarks, legends, panels, UI, or humans. No invented branded hardware. Avoid glowing science-fiction effects, neon gradients, AI brains, futuristic holograms, heavy circuit-board patterns, cartoon icons, and clutter. Every line should feel intentional. Request a panoramic landscape canvas.

@@ -1,0 +1,19 @@
+# Newest first. Use only confirmed dates; date_label can be a year or semester.
+- date_label: "Oct. 2026"
+  text: "The NDS Lab website has been updated with our research directions, publications, and teaching information."
+  link: /research/
+  link_label: Explore our research
+- date_label: "Fall 2026"
+  text: "This semester, Byungjin Cho is teaching Quantum Algorithms, Algorithms, Information and Communications, and Capstone Design I/II."
+  link: /teaching/
+  link_label: Teaching
+- date_label: "2025"
+  text: "**Aeacus: QUIC-powered Low-latency and Strong-consistency Name Resolution in 5G** is published in IEEE Transactions on Mobile Computing."
+  link: https://doi.org/10.1109/TMC.2025.3539590
+  link_label: Paper
+  source: https://research.aalto.fi/en/publications/aeacus-quic-powered-low-latency-and-strong-consistency-name-resol/
+- date_label: "Feb. 2025"
+  text: "**Multi-agent Reinforcement Learning-based Capacity Planning for On-demand Vehicular Fog Computing** is published in IEEE Transactions on Intelligent Vehicles."
+  link: https://doi.org/10.1109/TIV.2024.3422375
+  link_label: Paper
+  source: https://research.aalto.fi/en/publications/multi-agent-reinforcement-learning-based-capacity-planning-for-on/
