@@ -61,6 +61,8 @@ The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptua
 
 Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS badge uses white Source Sans 3 text on a black rectangle, aligned to the left edge of “Network & Decision Systems Lab.” below it. The homepage moves directly from the banner to the introduction and News columns, with no separate central lab-name heading. Site typography, navigation, links, dates, research numbers, and the recruitment rule share the same black color. Body paragraphs, news text, publication and other list entries, and contact descriptions use justified text on desktop and mobile. Paragraph endings and explicit line breaks remain left aligned; headings, navigation, and dates keep their existing alignment. Automatic hyphenation and emergency long-word wrapping keep the text within its column.
 
+The shared type scale uses 29px page titles, 20px section headings, 16px body text, and 14px small text. The header subtitle is 13px. News entries, dates, and inline links use a separate 13px size on desktop and mobile; the News heading and All news link follow the standard heading and small-text sizes.
+
 The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
 
 ## Preview and deployment
