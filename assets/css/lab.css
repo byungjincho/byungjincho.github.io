@@ -1,6 +1,6 @@
 @font-face{font-family:"Source Sans 3";src:url("../fonts/source-sans-3-latin.woff2") format("woff2");font-weight:200 900;font-style:normal;font-display:swap}
 @font-face{font-family:"Source Serif 4";src:url("../fonts/source-serif-4-latin.woff2") format("woff2");font-weight:200 900;font-style:normal;font-display:swap}
-:root{--font-title:32px;--font-section:22px;--font-body:18px;--font-small:16px;--ink:#182f43;--text:#344451;--muted:#64727b;--accent:#8b293e;--line:#dce2e6;--paper:#fff;--soft:#f4f7f8;--sans:"Source Sans 3","Segoe UI",Arial,sans-serif;--serif:"Source Serif 4",Georgia,serif}
+:root{--font-title:30px;--font-section:21px;--font-body:17px;--font-small:15px;--ink:#182f43;--text:#344451;--muted:#64727b;--accent:#8b293e;--line:#dce2e6;--paper:#fff;--soft:#f4f7f8;--sans:"Source Sans 3","Segoe UI",Arial,sans-serif;--serif:"Source Serif 4",Georgia,serif}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:30px}
 body{margin:0;background:var(--paper);color:var(--text);font:400 var(--font-body)/1.65 var(--sans);-webkit-font-smoothing:antialiased;min-height:100vh;display:flex;flex-direction:column}
@@ -51,7 +51,7 @@ h3{font-family:var(--sans);font-weight:650}
 .research-area:hover{background:var(--soft)}
 .research-area:hover h3{color:var(--accent)}
 .home-news{margin-top:43px}
-.news-item{display:grid;grid-template-columns:114px 1fr;gap:22px;padding:19px 0;border-top:1px solid var(--line);font-size:var(--font-body)}
+.news-item{display:grid;grid-template-columns:114px 1fr;gap:22px;padding:19px 0;border-top:1px solid var(--line);font-size:var(--font-small)}
 .news-item:last-child{border-bottom:1px solid var(--line)}
 .news-date{font-weight:600;color:var(--accent);font-size:var(--font-small);padding-top:2px}
 .news-body p{margin:0;line-height:1.6}
@@ -112,7 +112,7 @@ h3{font-family:var(--sans);font-weight:650}
 .home-page .area-arrow{right:3px;bottom:21px}
 .home-page .research-details{font-size:var(--font-small);margin-top:19px}
 .home-page .home-news{margin-top:0}
-.home-page .news-item{grid-template-columns:81px 1fr;gap:17px;font-size:var(--font-body);padding:20px 0}
+.home-page .news-item{grid-template-columns:81px 1fr;gap:17px;font-size:var(--font-small);padding:20px 0}
 .home-page .news-date{font-size:var(--font-small)}
 .home-page .join-strip{margin-top:44px}
 @media(max-width:1000px){.home-columns{grid-template-columns:1fr 1.1fr;gap:38px}.home-page .hero h1{font-size:var(--font-section)}.home-page .news-item{grid-template-columns:1fr;gap:5px}.home-page .hero-intro{font-size:var(--font-body)}}
@@ -134,7 +134,7 @@ h3{font-family:var(--sans);font-weight:650}
 .student-profile{border-top:1px solid var(--line);padding-top:18px}
 .student-profile h3{margin:0 0 8px;font-size:var(--font-body)}
 .student-profile p{color:var(--muted);margin:0;font-size:var(--font-small)}
-@media(min-width:761px){.home-title{white-space:nowrap;font-size:clamp(22px,3.1vw,32px)}}
+@media(min-width:761px){.home-title{white-space:nowrap;font-size:clamp(var(--font-section),3.1vw,var(--font-title))}}
 @media(max-width:760px){.home-title{font-size:var(--font-section);letter-spacing:0}.student-grid{grid-template-columns:1fr;gap:20px}}
 
 .wordmark__affiliation{font-size:14px}
