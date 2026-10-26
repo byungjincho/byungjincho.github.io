@@ -128,3 +128,11 @@ h3{font-family:var(--sans);font-weight:650}
 .course-list{margin:0;padding-left:22px}
 .course-list li{font-size:var(--font-body);line-height:1.65;margin-bottom:6px}
 .wordmark__affiliation{font-size:var(--font-small);letter-spacing:0;text-transform:none}
+
+.home-title{font-family:var(--serif);font-size:var(--font-title);font-weight:500;line-height:1.25;letter-spacing:-.5px;margin:0 0 22px}
+.student-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin:20px 0 32px}
+.student-profile{border-top:1px solid var(--line);padding-top:18px}
+.student-profile h3{margin:0 0 8px;font-size:var(--font-body)}
+.student-profile p{color:var(--muted);margin:0;font-size:var(--font-small)}
+@media(min-width:761px){.home-title{white-space:nowrap;font-size:clamp(22px,3.1vw,32px)}}
+@media(max-width:760px){.home-title{font-size:var(--font-section);letter-spacing:0}.student-grid{grid-template-columns:1fr;gap:20px}}
