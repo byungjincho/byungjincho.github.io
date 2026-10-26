@@ -45,4 +45,4 @@ We examine both the benefit of new information and the communication, computatio
 
 ---
 
-[Explore our publications]({{ '/publications/' | relative_url }}) · [Join the lab]({{ '/contact/' | relative_url }})
+[Explore our publications]({{ '/publications/' | relative_url }})

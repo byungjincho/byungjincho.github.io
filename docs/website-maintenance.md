@@ -13,10 +13,12 @@ The site is built with Jekyll and GitHub Pages. The production source is the `ma
 | Publications | `_pages/publications.md` |
 | Teaching | `_pages/teaching.html` |
 | Talks and professional service | `_pages/talks.html` |
-| Contact and recruitment | `_pages/contact.md` |
+| Contact details and map | `_pages/contact.md` |
 | Main navigation | `_data/navigation.yml` |
 | Shared layout and metadata | `_layouts/lab.html`, `_config.yml` |
 | Typography and responsive styling | `assets/css/lab.css` |
+
+Recruitment appears only in the homepage Join NDS Lab strip. People lists the lab members and keeps the PI's Google Scholar and ORCID links; Publications starts directly with the publication list.
 
 ## Adding news
 

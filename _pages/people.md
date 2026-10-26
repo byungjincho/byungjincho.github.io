@@ -27,7 +27,3 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
   <article class="student-profile"><h3>김성현</h3><p>Research Assistant</p></article>
   <article class="student-profile"><h3>김정하</h3><p>Research Assistant</p></article>
 </div>
-
-## Join the Lab
-
-We welcome inquiries from prospective M.S. and Ph.D. students interested in our research. [Contact us]({{ '/contact/' | relative_url }}) to discuss research interests and opportunities.

@@ -5,10 +5,6 @@ permalink: /publications/
 description: "Publications in communication networks, edge computing and AI systems, and quantum information systems."
 ---
 
-Research publications by Byungjin Cho and collaborators.
-
-[Google Scholar]({{ site.author.googlescholar }}) · [ORCID]({{ site.author.orcid }})
-
 ## 2026
 
 * <span id="secure-symbiotic-radio"></span>[TCOM] C. Jin, M. Luan, F. Hu, **B. Cho**, I. Pölönen, and Z. Chang, “ISAC-Enhanced Secure Symbiotic Radio With Passive Localization and Joint Beamforming Design,” in IEEE Transactions on Communications, vol. 74, pp. 14012–14027, 2026. [DOI](https://doi.org/10.1109/TCOMM.2026.3731810)
