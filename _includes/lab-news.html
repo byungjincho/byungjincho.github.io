@@ -1,6 +1,8 @@
 <div class="news-list">
 {% assign news_limit = include.limit | default: 999 %}
-{% for item in site.data.news limit: news_limit %}
+{% assign news_items = site.data.news %}
+{% if include.featured %}{% assign news_items = news_items | where: "featured", true %}{% endif %}
+{% for item in news_items limit: news_limit %}
   <article class="news-item">
     <div class="news-date">{{ item.date_label }}</div>
     <div class="news-body"><p>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}{% if item.link %} <a class="news-more" href="{% if item.link contains '://' %}{{ item.link }}{% else %}{{ item.link | relative_url }}{% endif %}">{{ item.link_label | default: 'Read more' }}<span aria-hidden="true"> ↗</span></a>{% endif %}</p></div>

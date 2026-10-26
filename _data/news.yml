@@ -7,6 +7,30 @@
   text: "This semester, Byungjin Cho is teaching Quantum Algorithms, Algorithms, Information and Communications, and Capstone Design I/II."
   link: /teaching/
   link_label: Teaching
+- date_label: "2026"
+  text: "**ISAC-enhanced secure symbiotic radio** — published in IEEE Transactions on Communications."
+  link: https://doi.org/10.1109/TCOMM.2026.3731810
+  link_label: Paper
+  featured: true
+  source: https://tiedejatutkimus.fi/fi/results/publication/0710449126
+- date_label: "2026"
+  text: "**NOMA-enabled covert and fair multi-UAV data collection** — published in IEEE Transactions on Communications."
+  link: https://doi.org/10.1109/TCOMM.2026.3686733
+  link_label: Paper
+  featured: true
+  source: https://api.crossref.org/works/10.1109/TCOMM.2026.3686733
+- date_label: "Aug. 2026"
+  text: "**Market-driven air-ground computation offloading** — published in IEEE Internet of Things Journal."
+  link: https://doi.org/10.1109/JIOT.2026.3702851
+  link_label: Paper
+  featured: true
+  source: https://api.crossref.org/works/10.1109/JIOT.2026.3702851
+- date_label: "May 2026"
+  text: "**CORAL: efficient edge inference through resource adaptation** — published in the ICFEC 2026 proceedings."
+  link: https://doi.org/10.1109/ICFEC69006.2026.00012
+  link_label: Paper
+  featured: true
+  source: https://icfec2026.hanyang.ac.kr/
 - date_label: "2025"
   text: "**Aeacus: QUIC-powered Low-latency and Strong-consistency Name Resolution in 5G** is published in IEEE Transactions on Mobile Computing."
   link: https://doi.org/10.1109/TMC.2025.3539590

@@ -22,7 +22,7 @@ Recruitment appears only in the homepage Join NDS Lab strip. People lists the la
 
 ## Adding news
 
-Add an entry at the top of `_data/news.yml`. The homepage shows the first four items; `/news/` shows the complete archive. Both use the same data.
+Add an entry at the top of `_data/news.yml`. The homepage shows the first four entries marked `featured: true`; `/news/` shows the complete archive. Both use the same data. Mark a confirmed announcement as featured when it should appear on the homepage.
 
 ```yaml
 - date_label: "Oct. 2026"
@@ -53,7 +53,7 @@ Research descriptions link to stable publication anchors. Keep the anchors when 
 
 The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptual illustration, not a photograph of a campus or a scientific diagram. Its generation prompt is recorded in `docs/hero-image-prompt.txt`.
 
-Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS Lab wordmark uses the self-hosted UnifrakturCook Bold blackletter font. The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
+Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS Lab wordmark uses white Source Sans 3 text on a navy rectangle, with Network & Decision Systems below it. The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
 
 ## Preview and deployment
 
