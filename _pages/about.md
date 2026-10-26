@@ -13,7 +13,7 @@ redirect_from:
   <img src="{{ '/assets/images/nds-research-hero.webp' | relative_url }}" width="2172" height="724" alt="Conceptual illustration of quantum information, terrestrial and aerial networks, and decision paths." fetchpriority="high" decoding="async">
 </figure>
 
-<h1 id="lab-title" class="home-title">Network and Decision Systems (NDS) Lab</h1>
+<h1 id="lab-title" class="home-title">Network and Decision Systems Lab</h1>
 
 <div class="home-columns">
   <div class="home-about">
