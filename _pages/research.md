@@ -12,7 +12,7 @@ We study classical and quantum systems through three questions: **What is achiev
 
 *What can a system achieve under its constraints?*
 
-We investigate how physical constraints, limited resources, and incomplete information shape the capabilities of communication, computation, and sensing systems. We analyze reliability and security, and examine trade-offs involving accuracy, delay, energy, and computational effort.
+We investigate how physical constraints, limited resources, and incomplete information shape the capabilities of communication, computation, and sensing systems. We characterize fundamental limits and derive algorithmic performance guarantees under explicit assumptions. We analyze reliability and security, and examine trade-offs involving accuracy, delay, energy, and computational effort.
 
 Our research includes quantum information processing and communication, where noise, measurement, and the available quantum resources determine what a protocol can achieve. We also study the effects of interference, mobility, and intermittent connectivity on network performance.
 
@@ -31,6 +31,8 @@ This direction also includes carbon-aware edge computing: how workloads should b
 *How should systems act when their environment is not fully known?*
 
 We develop learning and optimization methods for sequential and distributed decisions. Drawing on bandit methods, reinforcement learning, game theory, and optimization, we study how systems can learn from partial or delayed feedback, coordinate their actions, and adapt to changing environments.
+
+We study performance guarantees for sequential decisions, including regret bounds for bandit algorithms: how cumulative performance compares with a specified benchmark over time. These guarantees depend on the feedback model and assumptions about the environment.
 
 We examine both the benefit of new information and the cost of acquiring and using it, including the communication, computation, and observation effort required to make decisions.
 

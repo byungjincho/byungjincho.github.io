@@ -2,20 +2,11 @@
 layout: lab
 title: "Contact"
 permalink: /contact/
-description: "Contact the Network and Decision Systems Lab at KU."
+description: "Email, telephone, and office address for the Network and Decision Systems Lab."
 ---
 
-## Get in Touch
-
-**Network and Decision Systems (NDS) Lab**<br>
-Department of Computer Science and Software Engineering<br>
-KU
-
-**Principal Investigator:** Byungjin Cho<br>
-**Email:** [{{ site.author.email }}](mailto:{{ site.author.email }})
-
-## Prospective Students
-
-We welcome inquiries from motivated M.S. and Ph.D. students interested in performance analysis, network design, or learning and decision systems. Please email Byungjin Cho with a brief introduction and a description of your research interests.
-
-[Explore our research]({{ '/research/' | relative_url }}) · [Meet the principal investigator]({{ '/people/' | relative_url }})
+<dl class="contact-details">
+  <div><dt>Email</dt><dd><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></dd></div>
+  <div><dt>Phone</dt><dd><a href="tel:+82448601344">+82-44-860-1344</a></dd></div>
+  <div><dt>Office</dt><dd>과학기술2관 7-329A<br>2511 Sejong-ro, Sejong 30019, Republic of Korea</dd></div>
+</dl>

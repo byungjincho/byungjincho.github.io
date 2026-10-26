@@ -18,11 +18,11 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-labelledby="lab-title">
-      <p class="hero-intro">We study how physical constraints, limited resources, and incomplete information shape the performance of classical and quantum systems. Our research connects <strong>performance limits and trade-offs</strong> with <strong>network design</strong> and <strong>decision-making under uncertainty</strong>, through three closely connected themes:</p>
+      <p class="hero-intro">We study how physical constraints, limited resources, and incomplete information shape the performance of classical and quantum systems. Our research connects <strong>performance limits and trade-offs</strong> with <strong>network design</strong> and <strong>decision-making under uncertainty</strong>. We connect algorithm design with provable performance guarantees across three closely connected themes:</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
-        <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What can a system achieve under its constraints?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What is achievable, and what performance can be guaranteed?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
         <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>Network Design and Resource Allocation</h3><p>How should systems be configured and resources shared?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
         <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision Systems</h3><p>How should systems act when their environment is not fully known?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
       </div>
