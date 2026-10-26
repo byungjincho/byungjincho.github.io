@@ -1,6 +1,6 @@
 # Newest first. Use confirmed publication and event months.
 - date_label: "Sep. 2026"
-  text: "**김성현 advanced to the finals** of the 2026 AI Pilot Top Gun Challenge at Korea Aerospace University."
+  text: "**Seonghyeon Kim advanced to the finals** of the 2026 AI Pilot Top Gun Challenge at Korea Aerospace University."
   link: https://aipilot2026.kau.ac.kr/
   link_label: Competition
   source: https://kaunews.kau.ac.kr/pages/news.php?mode=read&seq=3812
@@ -10,7 +10,7 @@
   link_label: Paper
   source: https://ieeexplore.ieee.org/document/11683846/
 - date_label: "Aug. 2026"
-  text: "**김성현 participated in the 2026 AI Pilot Top Gun Challenge qualifiers**, working on reinforcement learning for simulated air combat."
+  text: "**Seonghyeon Kim participated in the 2026 AI Pilot Top Gun Challenge qualifiers**, working on reinforcement learning for simulated air combat."
   link: https://aipilot2026.kau.ac.kr/
   link_label: Competition
   source: https://aipilot2026.kau.ac.kr/
@@ -19,6 +19,11 @@
   link: https://doi.org/10.1109/JIOT.2026.3702851
   link_label: Paper
   source: https://api.crossref.org/works/10.1109/JIOT.2026.3702851
+- date_label: "May 2026"
+  text: "**Seonghyeon Kim received an Excellence Award (최우수상)** at Korea University (Sejong)'s Spring 2026 Industry-Linked Capstone Design Competition."
+  link: https://swuniv.korea.ac.kr/bbs/swuniv/979/268798/artclView.do
+  link_label: Competition
+  source: https://swuniv.korea.ac.kr/bbs/swuniv/979/268798/artclView.do
 - date_label: "May 2026"
   text: "**CORAL: efficient edge inference through resource adaptation** — published in the ICFEC 2026 proceedings."
   link: https://doi.org/10.1109/ICFEC69006.2026.00012

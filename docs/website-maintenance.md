@@ -22,7 +22,7 @@ Recruitment appears only in the homepage Join NDS Lab strip. People lists the la
 
 ## Adding news
 
-Add an entry at the top of `_data/news.yml`. The homepage shows the first six entries marked `featured: true`; `/news/` shows the complete archive. Both use the same data. Mark a confirmed announcement as featured when it should appear on the homepage.
+Add an entry at the top of `_data/news.yml`. The homepage shows the latest six entries from the complete chronological list; its All news link opens the complete archive at `/news/`. Both use the same data, without a separate featured selection.
 
 ```yaml
 - date_label: "Oct. 2026"
@@ -31,9 +31,11 @@ Add an entry at the top of `_data/news.yml`. The homepage shows the first six en
   link_label: Read more
 ```
 
-Use a year, month, or academic semester according to what is known. Do not infer an acceptance date from a publication date. An optional `source` URL records the evidence for a news item without displaying it as another link.
+Use a confirmed month and year for each news entry. Do not infer an acceptance date from a publication date. An optional `source` URL records the evidence for a news item without displaying it as another link.
 
-The student competition participation and finalist milestone are confirmed by the lab PI; organizer sources verify the event name and schedule (qualifiers: August 27–28; finals: September 17, 2026). The news uses the respective round months. Student profile keywords describe reinforcement learning and decision-making in air-combat simulation, without implying real-aircraft deployment.
+Seonghyeon Kim’s capstone Excellence Award (최우수상) is confirmed by the lab PI; the supplied poster and the official KU Sejong SW initiative notice verify the event name and May 27, 2026 date. “Spring 2026 Industry-Linked Capstone Design Competition” and “Excellence Award” are descriptive English translations; the Korean award tier is retained for precision. His name uses the romanization “Seonghyeon Kim.”
+
+The student air-combat competition participation and finalist milestone are confirmed by the lab PI; organizer sources verify the event name and schedule (qualifiers: August 27–28; finals: September 17, 2026). The news uses the respective round months. Student profile keywords describe reinforcement learning and decision-making in air-combat simulation, without implying real-aircraft deployment.
 
 Publication months for the symbiotic and multi-UAV news are IEEE's Date of Publication (September 8 and April 22, 2026). Aeacus news refers explicitly to its July 2025 journal issue, rather than its February online publication. Do not substitute DOI deposit or indexing dates for publication dates.
 
