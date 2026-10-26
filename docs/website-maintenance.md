@@ -22,7 +22,7 @@ Recruitment appears only in the homepage Join NDS Lab strip. People lists the la
 
 ## Adding news
 
-Add an entry at the top of `_data/news.yml`. The homepage shows the first four entries marked `featured: true`; `/news/` shows the complete archive. Both use the same data. Mark a confirmed announcement as featured when it should appear on the homepage.
+Add an entry at the top of `_data/news.yml`. The homepage shows the first six entries marked `featured: true`; `/news/` shows the complete archive. Both use the same data. Mark a confirmed announcement as featured when it should appear on the homepage.
 
 ```yaml
 - date_label: "Oct. 2026"
@@ -32,6 +32,10 @@ Add an entry at the top of `_data/news.yml`. The homepage shows the first four e
 ```
 
 Use a year, month, or academic semester according to what is known. Do not infer an acceptance date from a publication date. An optional `source` URL records the evidence for a news item without displaying it as another link.
+
+The student competition participation and finalist milestone are confirmed by the lab PI; organizer sources verify the event name and schedule (qualifiers: August 27–28; finals: September 17, 2026). The news uses the respective round months. Student profile keywords describe reinforcement learning and decision-making in air-combat simulation, without implying real-aircraft deployment.
+
+Publication months for the symbiotic and multi-UAV news are IEEE's Date of Publication (September 8 and April 22, 2026). Aeacus news refers explicitly to its July 2025 journal issue, rather than its February online publication. Do not substitute DOI deposit or indexing dates for publication dates.
 
 ## Publication records
 

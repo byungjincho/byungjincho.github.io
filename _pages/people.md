@@ -24,6 +24,6 @@ Byungjin Cho is an Assistant Professor at Korea University (Sejong). His researc
 ## Members
 
 <div class="student-grid">
-  <article class="student-profile"><h3>김성현</h3><p>Research Assistant</p></article>
+  <article class="student-profile" id="member-kim-seonghyeon"><h3>김성현</h3><p>Research Assistant</p><p class="student-profile__research"><strong>Research:</strong> Reinforcement Learning · Autonomous Decision-Making · AI Pilot Agents · Air-Combat Simulation</p></article>
   <article class="student-profile"><h3>김정하</h3><p>Research Assistant</p></article>
 </div>
