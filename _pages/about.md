@@ -3,7 +3,7 @@ layout: lab
 home: true
 permalink: /
 title: "Network and Decision Systems (NDS) Lab"
-description: "We study performance limits and trade-offs, network design, and decision-making in classical and quantum systems at KU."
+description: "Research in communication networks, edge computing and AI systems, and quantum information systems: performance, resource management, and decision-making."
 redirect_from:
   - /about/
   - /about.html
@@ -18,7 +18,7 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-labelledby="lab-title">
-      <p class="hero-intro">We study how physical constraints, limited resources, and incomplete information shape the performance of classical and quantum systems. Our research connects <strong>performance limits and trade-offs</strong> with <strong>network design</strong> and <strong>decision-making under uncertainty</strong>. We connect algorithm design with provable performance guarantees across three closely connected themes:</p>
+      <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with network and system design, resource allocation, and learning and decision-making.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">

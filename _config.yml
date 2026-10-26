@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "NDS Lab"
 title_separator          : "-"
 name                     : &name "Network and Decision Systems Lab"
-description              : &description "Performance limits and trade-offs, network design and resource allocation, and learning and decision systems at KU."
+description              : &description "Research in communication networks, edge computing and AI systems, and quantum information systems."
 url                      : https://byungjincho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "byungjincho/byungjincho.github.io"

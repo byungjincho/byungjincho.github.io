@@ -2,18 +2,33 @@
 layout: lab
 title: "Publications"
 permalink: /publications/
-description: "Publications in quantum algorithms, communication networks, and learning and decision systems."
+description: "Publications in communication networks, edge computing and AI systems, and quantum information systems."
 ---
 
 Research publications by Byungjin Cho and collaborators.
 
 [Google Scholar]({{ site.author.googlescholar }}) · [ORCID]({{ site.author.orcid }})
 
+## 2026
+
+* [TCOM] C. Jin, M. Luan, F. Hu, **B. Cho**, I. Pölönen, and Z. Chang, “ISAC-Enhanced Secure Symbiotic Radio With Passive Localization and Joint Beamforming Design,” in IEEE Transactions on Communications, vol. 74, pp. 14012–14027, 2026. [DOI](https://doi.org/10.1109/TCOMM.2026.3731810)
+{: #secure-symbiotic-radio}
+
+* [TCOM] M. Cheng, J. Li, C. Ye, **B. Cho**, and Z. Chang, “NOMA-Enabled Covert and Fair Data Collection for Multi-UAV Wireless Network Under Imperfect CSI,” in IEEE Transactions on Communications, vol. 74, pp. 8025–8041, 2026. [DOI](https://doi.org/10.1109/TCOMM.2026.3686733)
+{: #multi-uav-data-collection}
+
+* [JIOT] B. Xiang, X. Chen, P. Wu, **B. Cho**, and Z. Chang, “Market-Driven Computation Offloading for Air-Ground Collaborative Vehicular Edge Computing,” in IEEE Internet of Things Journal, vol. 13, no. 16, pp. 36955–36971, Aug. 2026. [DOI](https://doi.org/10.1109/JIOT.2026.3702851)
+{: #air-ground-offloading}
+
+* [ICFEC] A. N. L. Nabhaan, Z. Sukma, R. D. Rachmanto, M. H. Santriaji, **B. Cho**, A. Setyanto, and I. K. Kim, “Coral: Covariance-Guided Resource Adaptive Learning for Efficient Edge Inference,” in Proc. IEEE International Conference on Fog and Edge Computing (ICFEC), pp. 33–40, May 2026. [DOI](https://doi.org/10.1109/ICFEC69006.2026.00012) · [Preprint](https://arxiv.org/abs/2603.14577)
+{: #coral}
+
 ## 2025
 
 * [TMC] X. Li, **B. Cho**, S. Katta, J. C. Requena, and Y. Xiao, “Aeacus: QUIC-powered Low-latency and Strong-consistency Name Resolution in 5G,” in IEEE Transactions on Mobile Computing (TMC), vol. 24, no. 7, pp. 5981–5995, 2025. [DOI](https://doi.org/10.1109/TMC.2025.3539590)
 
 * [TIV] W. Mao, J. Yin, Y. Liu, **B. Cho**, Y. Chen, W. Rao, and Y. Xiao, “Multi-agent Reinforcement Learning-based Capacity Planning for On-demand Vehicular Fog Computing,” in IEEE Transactions on Intelligent Vehicles (TIV), vol. 10, no. 2, pp. 1043–1057, Feb. 2025. [DOI](https://doi.org/10.1109/TIV.2024.3422375)
+{: #marl-capacity-planning}
 
 ## 2024
 
@@ -36,6 +51,7 @@ Research publications by Byungjin Cho and collaborators.
 * [JIOT] W. Mao, O. U. Akgul, A. Mehrabi, **B. Cho**, Y. Xiao, and A. Ylä-Jääski, “Data-Driven Capacity Planning for Vehicular Fog Computing,” in IEEE Internet of Things Journal (JIOT), vol. 9, no. 15, pp. 13179–13194, Aug. 2022. [DOI](https://doi.org/10.1109/JIOT.2022.3143872)
 
 * [CCNC] X. Li, **B. Cho**, and Y. Xiao, “Balancing Latency and Accuracy on Deep Video Analytics at the Edge,” in Proc. IEEE Consumer Communications & Networking Conference (CCNC), pp. 299-306, Jan. 2022. [link](https://acris.aalto.fi/ws/portalfiles/portal/79542279/_CCNC_2022_Deep_Video_Analytics_Latency_vs_Accuracy_2_.pdf)
+{: #edge-video-analytics}
 
 ## 2021
 

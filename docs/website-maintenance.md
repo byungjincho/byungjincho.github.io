@@ -35,6 +35,18 @@ Use a year, month, or academic semester according to what is known. Do not infer
 
 Keep published papers separate from work in progress and proposals. Verify bibliographic changes against a publisher or institutional record. The 2025 TMC and TIV records and three older bibliographic entries were updated from Aalto University's publication database. The news entries retain source URLs. AcademicPages demonstration posts, example CV, and other sample pages are excluded from publishing in `_config.yml`; their source remains in git.
 
+## Research scope and recent papers
+
+The introduction explicitly names three application domains: communication networks, edge computing and AI systems, and quantum information systems. The three research themes describe questions across these domains, not mutually exclusive paper categories. Symbiotic radio/ISAC and UAV data collection sit primarily in communication networks; air-ground computing offloading and CORAL sit primarily in edge computing and AI systems. UAV is a platform that can appear in either domain.
+
+The 2026 CORAL, secure symbiotic radio, multi-UAV data collection, and air-ground offloading entries were checked against IEEE-deposited Crossref records at `https://api.crossref.org/works/{DOI}`. These are published records; the CORAL preprint is linked as an alternate version rather than a duplicate publication. Relevant primary records:
+
+- Symbiotic radio: https://tiedejatutkimus.fi/fi/results/publication/0710449126
+- CORAL program: https://icfec2026.hanyang.ac.kr/
+- CORAL manuscript: https://arxiv.org/abs/2603.14577
+
+Research descriptions link to stable publication anchors. Keep the anchors when editing or reordering entries. Experimental improvements in CORAL are not presented as mathematical guarantees. Carbon-aware edge fleet work is described as a research direction rather than a published result.
+
 ## Design assets
 
 The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptual illustration, not a photograph of a campus or a scientific diagram. Its generation prompt is recorded in `docs/hero-image-prompt.txt`.

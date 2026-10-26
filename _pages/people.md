@@ -17,7 +17,7 @@ description: "Meet the members of the Network and Decision Systems Lab."
   </div>
 </div>
 
-Byungjin Cho is an Assistant Professor at Korea University (Sejong). His research addresses performance limits and trade-offs, network design and resource allocation, and learning and decision systems. Previously, he was a Senior Research Scientist at Nokia in Finland and an Engineer at SK hynix in Korea. He pursued postdoctoral research and completed his doctoral and master's studies in electrical engineering at Aalto University, Finland.
+Byungjin Cho is an Assistant Professor at Korea University (Sejong). His research spans communication networks, edge computing and AI systems, and quantum information systems, with a focus on performance analysis, resource management, and learning and decision algorithms. Previously, he was a Senior Research Scientist at Nokia in Finland and an Engineer at SK hynix in Korea. He pursued postdoctoral research and completed his doctoral and master's studies in electrical engineering at Aalto University, Finland.
 
 [Talks and professional service]({{ '/talks/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }})
 
