@@ -11,7 +11,7 @@ description: "Meet the principal investigator of the Network and Decision System
   <img class="pi-profile__photo" src="{{ '/images/cho.png' | relative_url }}" width="180" height="225" alt="Byungjin Cho">
   <div class="pi-profile__body">
     <h3>Byungjin Cho</h3>
-    <p>Assistant Professor<br>Department of Computer Science and Software Engineering<br>Korea University, Sejong Campus</p>
+    <p>Assistant Professor<br>Department of Computer Science and Software Engineering<br>KU</p>
     <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
     <p><a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></p>
   </div>

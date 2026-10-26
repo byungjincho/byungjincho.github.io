@@ -2,14 +2,14 @@
 layout: lab
 title: "Contact"
 permalink: /contact/
-description: "Contact the Network and Decision Systems Lab at Korea University, Sejong Campus."
+description: "Contact the Network and Decision Systems Lab at KU."
 ---
 
 ## Get in Touch
 
 **Network and Decision Systems (NDS) Lab**<br>
 Department of Computer Science and Software Engineering<br>
-Korea University, Sejong Campus
+KU
 
 **Principal Investigator:** Byungjin Cho<br>
 **Email:** [{{ site.author.email }}](mailto:{{ site.author.email }})

@@ -3,7 +3,7 @@ layout: lab
 home: true
 permalink: /
 title: "Network and Decision Systems (NDS) Lab"
-description: "We study performance limits and trade-offs, network design, and decision-making in classical and quantum systems at Korea University, Sejong Campus."
+description: "We study performance limits and trade-offs, network design, and decision-making in classical and quantum systems at KU."
 redirect_from:
   - /about/
   - /about.html
@@ -16,7 +16,6 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-labelledby="lab-title">
-      <p class="eyebrow">Korea University, Sejong Campus</p>
       <h1 id="lab-title">Network and Decision Systems <span class="hero-lab">(NDS) Lab</span></h1>
       <p class="hero-intro">We study how physical constraints, limited resources, and incomplete information shape the performance of classical and quantum systems. Our research connects <strong>performance limits and trade-offs</strong> with <strong>network design</strong> and <strong>decision-making under uncertainty</strong>.</p>
     </section>
