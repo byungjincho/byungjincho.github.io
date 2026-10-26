@@ -59,7 +59,9 @@ Research descriptions link to stable publication anchors. Keep the anchors when 
 
 The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptual illustration, not a photograph of a campus or a scientific diagram. Its generation prompt is recorded in `docs/hero-image-prompt.txt`.
 
-Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS badge uses white Source Sans 3 text on a black rectangle, aligned to the left edge of “Network & Decision Systems Lab.” below it. The homepage moves directly from the banner to the introduction and News columns, with no separate central lab-name heading. Site typography, navigation, links, dates, research numbers, and the recruitment rule share the same black color. The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
+Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS badge uses white Source Sans 3 text on a black rectangle, aligned to the left edge of “Network & Decision Systems Lab.” below it. The homepage moves directly from the banner to the introduction and News columns, with no separate central lab-name heading. Site typography, navigation, links, dates, research numbers, and the recruitment rule share the same black color. Body paragraphs, news text, publication and other list entries, and contact descriptions use justified text on desktop and mobile. Paragraph endings and explicit line breaks remain left aligned; headings, navigation, and dates keep their existing alignment. Automatic hyphenation and emergency long-word wrapping keep the text within its column.
+
+The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
 
 ## Preview and deployment
 
