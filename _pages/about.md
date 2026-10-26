@@ -13,11 +13,9 @@ redirect_from:
   <img src="{{ '/assets/images/nds-research-hero.webp' | relative_url }}" width="2172" height="724" alt="Conceptual illustration of quantum information, terrestrial and aerial networks, and decision paths." fetchpriority="high" decoding="async">
 </figure>
 
-<h1 id="lab-title" class="home-title">Network and Decision Systems Lab</h1>
-
 <div class="home-columns">
   <div class="home-about">
-    <section class="hero" aria-labelledby="lab-title">
+    <section class="hero" aria-label="About NDS Lab">
       <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with system design, resource management, and learning and decision-making.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">

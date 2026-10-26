@@ -17,15 +17,15 @@ h3{font-family:var(--sans);font-weight:650}
 .skip-link{position:absolute;top:-100px;left:20px;padding:10px 16px;z-index:20;background:var(--ink);color:white}
 .skip-link:focus{top:10px}
 .site-header{border-bottom:1px solid var(--line)}
-.header-row{min-height:102px;display:flex;align-items:center;justify-content:space-between;gap:30px}
-.wordmark{text-decoration:none;color:var(--ink);display:flex;flex-direction:column;align-items:flex-start;line-height:1.1;flex-shrink:0}
+.header-row{min-height:102px;padding-block:10px;display:flex;align-items:center;justify-content:space-between;gap:30px}
+.wordmark{text-decoration:none;color:var(--ink);display:flex;flex-direction:column;align-items:flex-start;line-height:1.1;flex-shrink:1;min-width:0}
 .wordmark__name{display:inline-flex;align-items:center;justify-content:center;min-width:112px;min-height:48px;font-family:var(--sans);font-size:var(--font-title);font-weight:700;letter-spacing:0;line-height:1.1;color:#fff;background:var(--ink);padding:6px 18px;align-self:flex-start}
-.wordmark__subtitle{align-self:flex-start;text-align:left;font-size:14px;line-height:1.3;font-weight:400;letter-spacing:0;margin-top:7px;color:var(--muted)}
+.wordmark__subtitle{max-width:100%;align-self:flex-start;text-align:left;font-size:14px;line-height:1.3;font-weight:400;letter-spacing:0;margin-top:7px;color:var(--muted)}
 .desktop-nav{display:flex;gap:27px;align-items:center}
 .desktop-nav a{font-size:var(--font-small);font-weight:550;text-decoration:none;color:var(--text);position:relative;padding:37px 0}
 .desktop-nav a:hover,.desktop-nav a[aria-current]{color:var(--accent)}
 .desktop-nav a[aria-current]:after{content:"";position:absolute;bottom:22px;left:0;right:0;height:2px;background:var(--accent)}
-.mobile-menu{display:none}
+.mobile-menu{display:none;flex-shrink:0}
 .lab-main{padding-top:55px;padding-bottom:65px;flex:1}
 .eyebrow{font:600 var(--font-small)/1.5 var(--sans);letter-spacing:1.6px;text-transform:uppercase;color:var(--accent);margin-bottom:19px}
 .hero h1{font-size:var(--font-title);line-height:1.09;letter-spacing:-1.5px;margin:0 0 24px;max-width:980px}
@@ -128,13 +128,11 @@ h3{font-family:var(--sans);font-weight:650}
 .course-list{margin:0;padding-left:22px}
 .course-list li{font-size:var(--font-body);line-height:1.65;margin-bottom:6px}
 
-.home-title{font-family:var(--serif);font-size:var(--font-title);font-weight:500;line-height:1.25;letter-spacing:-.5px;margin:0 0 22px}
 .student-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin:20px 0 32px}
 .student-profile{border-top:1px solid var(--line);padding-top:18px}
 .student-profile h3{margin:0 0 8px;font-size:var(--font-body)}
 .student-profile p{color:var(--muted);margin:0;font-size:var(--font-small)}
-@media(min-width:761px){.home-title{white-space:nowrap;font-size:clamp(var(--font-section),3.1vw,var(--font-title))}}
-@media(max-width:760px){.home-title{font-size:var(--font-section);letter-spacing:0}.student-grid{grid-template-columns:1fr;gap:20px}}
+@media(max-width:760px){.student-grid{grid-template-columns:1fr;gap:20px}}
 
 .contact-details{margin:0;max-width:780px}
 .contact-details>div{display:grid;grid-template-columns:100px 1fr;gap:24px;padding:22px 0;border-bottom:1px solid var(--line)}
