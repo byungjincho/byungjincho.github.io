@@ -2,7 +2,7 @@
 layout: lab
 home: true
 permalink: /
-title: "Network and Decision Systems (NDS) Lab"
+title: "Information and Decision Systems (IDS) Lab"
 description: "Research in communication networks, edge computing and AI systems, and quantum information systems: performance, resource management, and decision-making."
 redirect_from:
   - /about/
@@ -15,7 +15,7 @@ redirect_from:
 
 <div class="home-columns">
   <div class="home-about">
-    <section class="hero" aria-label="About NDS Lab">
+    <section class="hero" aria-label="About IDS Lab">
       <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with system design, resource management, and learning and decision-making.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
@@ -33,4 +33,4 @@ redirect_from:
   </section>
 </div>
 
-<aside class="join-strip"><div><h2>Join NDS Lab</h2><p>We welcome inquiries from prospective M.S. and Ph.D. students.</p></div><a class="text-link" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">→</span></a></aside>
+<aside class="join-strip"><div><h2>Join IDS Lab</h2><p>We welcome inquiries from prospective M.S. and Ph.D. students.</p></div><a class="text-link" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">→</span></a></aside>

@@ -2,7 +2,7 @@
 layout: lab
 title: "People"
 permalink: /people/
-description: "Meet the members of the Network and Decision Systems Lab."
+description: "Meet the members of the Information and Decision Systems Lab."
 ---
 
 ## Principal Investigator

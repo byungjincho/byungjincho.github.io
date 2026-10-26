@@ -1,4 +1,4 @@
-# Maintaining the NDS Lab website
+# Maintaining the IDS Lab website
 
 The site is built with Jekyll and GitHub Pages. The production source is the `master` branch of `byungjincho/byungjincho.github.io`.
 
@@ -18,7 +18,7 @@ The site is built with Jekyll and GitHub Pages. The production source is the `ma
 | Shared layout and metadata | `_layouts/lab.html`, `_config.yml` |
 | Typography and responsive styling | `assets/css/lab.css` |
 
-Recruitment appears only in the homepage Join NDS Lab strip. People lists the lab members and keeps the PI's Google Scholar and ORCID links; Publications starts directly with the publication list.
+Recruitment appears only in the homepage Join IDS Lab strip. People lists the lab members and keeps the PI's Google Scholar and ORCID links; Publications starts directly with the publication list.
 
 ## Adding news
 
@@ -59,7 +59,7 @@ Research descriptions link to stable publication anchors. Keep the anchors when 
 
 The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptual illustration, not a photograph of a campus or a scientific diagram. Its generation prompt is recorded in `docs/hero-image-prompt.txt`.
 
-Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS badge uses white Source Sans 3 text on a black rectangle, aligned to the left edge of “Network & Decision Systems Lab.” below it. The homepage moves directly from the banner to the introduction and News columns, with no separate central lab-name heading. Site typography, navigation, links, dates, research numbers, and the recruitment rule share the same black color. Body paragraphs, news text, publication and other list entries, and contact descriptions use justified text on desktop and mobile. Paragraph endings and explicit line breaks remain left aligned; headings, navigation, and dates keep their existing alignment. Automatic hyphenation and emergency long-word wrapping keep the text within its column.
+Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only IDS badge uses white Source Sans 3 text with 0.12em letter spacing on a black rectangle, aligned to the left edge of “Information & Decision Systems Lab.” below it. The homepage moves directly from the banner to the introduction and News columns, with no separate central lab-name heading. Site typography, navigation, links, dates, research numbers, and the recruitment rule share the same black color. Body paragraphs, news text, publication and other list entries, and contact descriptions use justified text on desktop and mobile. Paragraph endings and explicit line breaks remain left aligned; headings, navigation, and dates keep their existing alignment. Automatic hyphenation and emergency long-word wrapping keep the text within its column.
 
 The shared type scale uses 29px page titles, 20px section headings, 16px body text, and 14px small text. The header subtitle is 13px. News entries, dates, and inline links use a separate 13px size on desktop and mobile; the News heading and All news link follow the standard heading and small-text sizes.
 

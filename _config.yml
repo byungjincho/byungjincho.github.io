@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NDS Lab"
+title                    : "IDS Lab"
 title_separator          : "-"
-name                     : &name "Network and Decision Systems Lab"
+name                     : &name "Information and Decision Systems Lab"
 description              : &description "Research in communication networks, edge computing and AI systems, and quantum information systems."
 url                      : https://byungjincho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

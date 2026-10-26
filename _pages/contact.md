@@ -2,7 +2,7 @@
 layout: lab
 title: "Contact"
 permalink: /contact/
-description: "Email, telephone, and office address for the Network and Decision Systems Lab."
+description: "Email, telephone, and office address for the Information and Decision Systems Lab."
 ---
 
 <dl class="contact-details">
