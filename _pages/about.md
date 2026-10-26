@@ -18,13 +18,13 @@ redirect_from:
 <div class="home-columns">
   <div class="home-about">
     <section class="hero" aria-labelledby="lab-title">
-      <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with network and system design, resource allocation, and learning and decision-making.</p>
+      <p class="hero-intro">We study <strong>communication networks</strong>, <strong>edge computing and AI systems</strong>, and <strong>quantum information systems</strong>. Across these domains, we investigate how physical constraints, limited resources, and uncertainty shape performance. Our research connects performance limits, trade-offs, and algorithmic guarantees with system design, resource management, and learning and decision-making.</p>
     </section>
     <section class="research-overview" aria-label="Research themes">
       <div class="research-grid">
         <a class="research-area" href="{{ '/research/#limits' | relative_url }}"><span class="area-number">01</span><div><h3>Performance Limits and Trade-offs</h3><p>What is achievable, and what performance can be guaranteed?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>Network Design and Resource Allocation</h3><p>How should systems be configured and resources shared?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
-        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision Systems</h3><p>How should systems act when their environment is not fully known?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#networks' | relative_url }}"><span class="area-number">02</span><div><h3>System Design and Resource Management</h3><p>How should systems be configured and resources shared?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
+        <a class="research-area" href="{{ '/research/#decisions' | relative_url }}"><span class="area-number">03</span><div><h3>Learning and Decision-Making</h3><p>How should systems act when their environment is not fully known?</p></div><span class="area-arrow" aria-hidden="true">↗</span></a>
       </div>
       <a class="text-link research-details" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
     </section>

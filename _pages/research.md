@@ -2,7 +2,7 @@
 layout: lab
 title: "Research"
 permalink: /research/
-description: "Communication networks, edge computing and AI systems, and quantum information systems: performance analysis, resource allocation, and learning and decision algorithms."
+description: "Communication networks, edge computing and AI systems, and quantum information systems: performance analysis, resource management, and learning and decision algorithms."
 ---
 
 Our research spans **communication networks**, **edge computing and AI systems**, and **quantum information systems**. We study how physical constraints, limited resources, and uncertainty affect what systems can achieve and how they should be designed and operated. Mathematical modeling and analysis guide our algorithms; simulation, measurement, and system implementation help us evaluate them.
@@ -20,7 +20,7 @@ In wireless networks, this includes the effects of interference, mobility, and i
 
 Our quantum information research includes quantum algorithms, the quantum switch, quantum key distribution (QKD), and quantum sensing. We investigate the roles of noise, measurement, and available quantum resources in the performance of these systems.
 
-## Network Design and Resource Allocation
+## System Design and Resource Management
 {: #networks}
 
 *How should systems be configured and resources shared?*
@@ -29,7 +29,7 @@ In **communication networks**, we study spectrum sharing, interference managemen
 
 In **edge computing and AI systems**, we study task offloading, capacity planning, workload placement, and runtime resource management. [Air-ground collaborative offloading]({{ '/publications/#air-ground-offloading' | relative_url }}) connects mobile computing resources with communication networks. This direction also extends to carbon-aware edge computing, including how workloads should be placed and scheduled across devices while accounting for performance, energy use, and carbon emissions.
 
-## Learning and Decision Systems
+## Learning and Decision-Making
 {: #decisions}
 
 *How should systems act when their environment is not fully known?*
