@@ -1,3 +1,4 @@
+@font-face{font-family:"UnifrakturCook";src:url("../fonts/unifrakturcook-bold.woff2") format("woff2");font-weight:700;font-style:normal;font-display:swap}
 @font-face{font-family:"Source Sans 3";src:url("../fonts/source-sans-3-latin.woff2") format("woff2");font-weight:200 900;font-style:normal;font-display:swap}
 @font-face{font-family:"Source Serif 4";src:url("../fonts/source-serif-4-latin.woff2") format("woff2");font-weight:200 900;font-style:normal;font-display:swap}
 :root{--font-title:30px;--font-section:21px;--font-body:17px;--font-small:15px;--ink:#182f43;--text:#344451;--muted:#64727b;--accent:#8b293e;--line:#dce2e6;--paper:#fff;--soft:#f4f7f8;--sans:"Source Sans 3","Segoe UI",Arial,sans-serif;--serif:"Source Serif 4",Georgia,serif}
@@ -19,8 +20,8 @@ h3{font-family:var(--sans);font-weight:650}
 .site-header{border-bottom:1px solid var(--line)}
 .header-row{min-height:102px;display:flex;align-items:center;justify-content:space-between;gap:30px}
 .wordmark{text-decoration:none;color:var(--ink);display:flex;flex-direction:column;line-height:1.1;flex-shrink:0}
-.wordmark__name{font-family:var(--serif);font-size:var(--font-title);font-weight:650;letter-spacing:-1px}
-.wordmark__lab{font-weight:450}
+.wordmark__name{font-family:"UnifrakturCook",var(--serif);font-size:var(--font-title);font-weight:700;letter-spacing:0}
+.wordmark__lab{font-weight:inherit}
 .wordmark__affiliation{font-size:var(--font-small);font-weight:550;letter-spacing:1px;margin-top:7px;color:var(--muted);text-transform:uppercase}
 .desktop-nav{display:flex;gap:27px;align-items:center}
 .desktop-nav a{font-size:var(--font-small);font-weight:550;text-decoration:none;color:var(--text);position:relative;padding:37px 0}
@@ -97,12 +98,13 @@ h3{font-family:var(--sans);font-weight:650}
 /* The home page follows a compact academic layout: banner, overview, and news. */
 .home-page .lab-main{padding-top:30px}
 .home-page .research-banner{margin:0 0 39px}
-.home-columns{display:grid;grid-template-columns:.9fr 1.2fr;gap:62px;align-items:start}
+.home-columns{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:44px;align-items:start}
 .home-page .hero h1{font-size:var(--font-title);line-height:1.22;letter-spacing:-.5px;margin-bottom:18px}
 .home-page .hero .eyebrow{font-size:var(--font-small);letter-spacing:1px;margin-bottom:13px}
-.home-page .hero-intro{font-size:var(--font-body);line-height:1.65;max-width:none;margin-bottom:0}
+.home-page .hero-intro{font-size:var(--font-body);line-height:1.65;max-width:none;margin-bottom:0;text-align:justify;text-align-last:left;hyphens:auto}
 .home-page .research-overview{margin-top:28px}
 .home-page .section-heading h2{font-size:var(--font-section)}
+.home-page .home-news .section-heading{margin-bottom:10px}
 .home-page .research-grid{display:block;border:0}
 .home-page .research-area,.home-page .research-area+.research-area{display:flex;gap:14px;padding:17px 25px 17px 0;border-left:0;border-bottom:1px solid var(--line)}
 .home-page .research-area:first-child{border-top:1px solid var(--line)}
@@ -112,11 +114,12 @@ h3{font-family:var(--sans);font-weight:650}
 .home-page .area-arrow{right:3px;bottom:21px}
 .home-page .research-details{font-size:var(--font-small);margin-top:19px}
 .home-page .home-news{margin-top:0}
-.home-page .news-item{grid-template-columns:81px 1fr;gap:17px;font-size:var(--font-small);padding:20px 0}
+.home-page .news-item{grid-template-columns:76px minmax(0,1fr);gap:12px;font-size:var(--font-small);padding:12px 0}
+.home-page .news-body p{line-height:1.5}
 .home-page .news-date{font-size:var(--font-small)}
 .home-page .join-strip{margin-top:44px}
-@media(max-width:1000px){.home-columns{grid-template-columns:1fr 1.1fr;gap:38px}.home-page .hero h1{font-size:var(--font-section)}.home-page .news-item{grid-template-columns:1fr;gap:5px}.home-page .hero-intro{font-size:var(--font-body)}}
-@media(max-width:760px){.home-page .lab-main{padding-top:20px}.home-page .research-banner{margin:0 0 27px}.home-columns{grid-template-columns:1fr;gap:36px}.home-page .hero h1{font-size:var(--font-title);max-width:500px}.home-page .hero-intro{font-size:var(--font-body)}.home-page .news-item{grid-template-columns:77px 1fr;gap:14px;font-size:var(--font-small)}.home-page .research-area,.home-page .research-area+.research-area{padding:17px 25px 17px 0}.home-page .research-area h3{font-size:var(--font-body)}.home-page .research-area p{font-size:var(--font-small)}.home-page .join-strip{margin-top:32px}}
+@media(max-width:1000px){.home-columns{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:32px}.home-page .hero h1{font-size:var(--font-section)}.home-page .news-item{grid-template-columns:1fr;gap:5px}.home-page .hero-intro{font-size:var(--font-body)}}
+@media(max-width:760px){.home-page .lab-main{padding-top:20px}.home-page .research-banner{margin:0 0 27px}.home-columns{grid-template-columns:1fr;gap:36px}.home-page .hero h1{font-size:var(--font-title);max-width:500px}.home-page .hero-intro{font-size:var(--font-body);text-align:left;hyphens:manual}.home-page .news-item{grid-template-columns:76px minmax(0,1fr);gap:12px;font-size:var(--font-small)}.home-page .research-area,.home-page .research-area+.research-area{padding:17px 25px 17px 0}.home-page .research-area h3{font-size:var(--font-body)}.home-page .research-area p{font-size:var(--font-small)}.home-page .join-strip{margin-top:32px}}
 @media(max-width:420px){.home-page .hero h1{font-size:var(--font-section)}.home-page .hero-intro{font-size:var(--font-body)}.home-page .news-item{grid-template-columns:1fr;gap:5px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 

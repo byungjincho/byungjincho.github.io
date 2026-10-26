@@ -53,7 +53,7 @@ Research descriptions link to stable publication anchors. Keep the anchors when 
 
 The homepage uses `assets/images/nds-research-hero.webp`, a decorative conceptual illustration, not a photograph of a campus or a scientific diagram. Its generation prompt is recorded in `docs/hero-image-prompt.txt`.
 
-Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. Their SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
+Source Sans 3 and Source Serif 4 are self-hosted as Latin-subset variable WOFF2 fonts. The text-only NDS Lab wordmark uses the self-hosted UnifrakturCook Bold blackletter font. The SIL Open Font Licenses are stored alongside the fonts in `assets/fonts/`. The page uses no external font service.
 
 ## Preview and deployment
 
