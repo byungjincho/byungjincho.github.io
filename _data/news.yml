@@ -10,11 +10,6 @@
   link_label: Paper
   source: https://ieeexplore.ieee.org/document/11683846/
 - date_label: "Aug. 2026"
-  text: "**Seonghyeon Kim participated in the 2026 AI Pilot Top Gun Challenge qualifiers**, working on reinforcement learning for simulated air combat."
-  link: https://aipilot2026.kau.ac.kr/
-  link_label: Competition
-  source: https://aipilot2026.kau.ac.kr/
-- date_label: "Aug. 2026"
   text: "**Market-driven air-ground computation offloading** — published in IEEE Internet of Things Journal."
   link: https://doi.org/10.1109/JIOT.2026.3702851
   link_label: Paper

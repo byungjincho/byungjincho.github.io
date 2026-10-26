@@ -35,7 +35,7 @@ Use a confirmed month and year for each news entry. Do not infer an acceptance d
 
 Seonghyeon Kim’s capstone Excellence Award (최우수상) is confirmed by the lab PI; the supplied poster and the official KU Sejong SW initiative notice verify the event name and May 27, 2026 date. “Spring 2026 Industry-Linked Capstone Design Competition” and “Excellence Award” are descriptive English translations; the Korean award tier is retained for precision. His name uses the romanization “Seonghyeon Kim.”
 
-The student air-combat competition participation and finalist milestone are confirmed by the lab PI; organizer sources verify the event name and schedule (qualifiers: August 27–28; finals: September 17, 2026). The news uses the respective round months. Student profile keywords describe reinforcement learning and decision-making in air-combat simulation, without implying real-aircraft deployment.
+The student air-combat competition participation and finalist milestone are confirmed by the lab PI; organizer sources verify the event name and schedule (qualifiers: August 27–28; finals: September 17, 2026). The news keeps one announcement for this competition: advancement to the finals in September 2026. Student profile keywords describe reinforcement learning and decision-making in air-combat simulation, without implying real-aircraft deployment.
 
 Publication months for the symbiotic and multi-UAV news are IEEE's Date of Publication (September 8 and April 22, 2026). Aeacus news refers explicitly to its July 2025 journal issue, rather than its February online publication. Do not substitute DOI deposit or indexing dates for publication dates.
 
