@@ -1,7 +1,6 @@
 <div class="news-list">
 {% assign news_limit = include.limit | default: 999 %}
 {% assign news_items = site.data.news %}
-{% if include.featured %}{% assign news_items = news_items | where: "featured", true %}{% endif %}
 {% for item in news_items limit: news_limit %}
   <article class="news-item">
     <div class="news-date">{{ item.date_label }}</div>

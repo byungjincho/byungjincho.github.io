@@ -30,8 +30,8 @@ redirect_from:
     </section>
   </div>
   <section class="home-news" aria-labelledby="news-title">
-    <div class="section-heading"><h2 id="news-title">News</h2><a href="{{ '/news/' | relative_url }}">All updates <span aria-hidden="true">→</span></a></div>
-    {% include lab-news.html limit=6 featured=true %}
+    <div class="section-heading"><h2 id="news-title">News</h2><a href="{{ '/news/' | relative_url }}">All news <span aria-hidden="true">→</span></a></div>
+    {% include lab-news.html limit=6 %}
   </section>
 </div>
 
