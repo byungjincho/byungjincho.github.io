@@ -1,0 +1,14 @@
+{% if site.migration_target_url and site.migration_source_host and site.repository == "byungjincho/byungjincho.github.io" %}
+<script>
+(function () {
+  if (window.location.hostname !== {{ site.migration_source_host | jsonify }}) return;
+  window.location.replace(
+    {{ site.migration_target_url | jsonify }} +
+    window.location.pathname +
+    window.location.search +
+    window.location.hash
+  );
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0;url={{ page.url | absolute_url }}"></noscript>
+{% endif %}

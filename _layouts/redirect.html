@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting · IDS Lab</title>
+  <link rel="canonical" href="{{ page.redirect.to | escape }}">
+  <meta name="robots" content="noindex">
+  <script>
+  (function () {
+    var target = new URL({{ page.redirect.to | jsonify }}, window.location.href);
+    if (window.location.search) target.search = window.location.search;
+    if (window.location.hash) target.hash = window.location.hash;
+    window.location.replace(target.href);
+  })();
+  </script>
+  <noscript><meta http-equiv="refresh" content="0;url={{ page.redirect.to | escape }}"></noscript>
+</head>
+<body><p>The site has moved. <a href="{{ page.redirect.to | escape }}">Continue to IDS Lab</a>.</p></body>
+</html>

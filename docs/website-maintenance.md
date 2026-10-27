@@ -1,6 +1,12 @@
 # Maintaining the IDS Lab website
 
-The site is built with Jekyll and GitHub Pages. The production source is the `master` branch of `byungjincho/byungjincho.github.io`.
+The site is built with Jekyll and GitHub Pages. The active production source is the `master` branch of `ids-ku/ids-ku.github.io`, published at `https://ids-ku.github.io/`.
+
+## Legacy address
+
+This repository, `byungjincho/byungjincho.github.io`, preserves the old address and redirects its HTML pages to the active site. Make future website content and design changes in `ids-ku/ids-ku.github.io`.
+
+The legacy configuration uses `migration_target_url` and `migration_source_host`. The shared `site-migration.html` include preserves the current path, query string, and fragment, and runs only for this repository on the legacy hostname. The custom redirect layout sends the old `/about/` and `/about.html` aliases directly to the new homepage while preserving query strings and fragments. The no-JavaScript fallback uses the equivalent destination page URL. Canonical, Open Graph, feed, and sitemap URLs point to the active domain. These migration settings are not enabled in the active site.
 
 ## Main files
 

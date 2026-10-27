@@ -11,9 +11,12 @@ title                    : "IDS Lab"
 title_separator          : "-"
 name                     : &name "Information and Decision Systems Lab"
 description              : &description "Research in communication networks, edge computing and AI systems, and quantum information systems."
-url                      : https://byungjincho.github.io
+url                      : https://ids-ku.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "byungjincho/byungjincho.github.io"
+# Legacy address: the active site is maintained in ids-ku/ids-ku.github.io.
+migration_target_url     : "https://ids-ku.github.io"
+migration_source_host    : "byungjincho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
